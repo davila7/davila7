@@ -60,6 +60,7 @@
 
 ### Try my own VScode extensions
 
+- [Code GPT: GPT-3 inside VSCode](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt)
 - [Daniel San Medium: All my Medium articles inside VSCode](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.blog-feed-rss)
 
 
