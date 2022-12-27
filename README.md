@@ -37,8 +37,6 @@
     <summary><h3>📺 Latest YouTube Videos</h3></summary>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Crea un bot en Twitter con #nodejs y #javascript](https://ytcards.demolab.com/?id=shr_DCX1hMo&title=Crea+un+bot+en+Twitter+con+%23nodejs+y+%23javascript&lang=en&timestamp=1671552935&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Crea un bot en Twitter con #nodejs y #javascript")](https://www.youtube.com/watch?v=shr_DCX1hMo)
-[![Crea un bot en Twitter con Nodejs](https://ytcards.demolab.com/?id=hi_qOqTL4Hk&title=Crea+un+bot+en+Twitter+con+Nodejs&lang=en&timestamp=1671510847&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Crea un bot en Twitter con Nodejs")](https://www.youtube.com/watch?v=hi_qOqTL4Hk)
 <!-- END YOUTUBE-CARDS -->
 
 </details>
@@ -58,11 +56,6 @@
     </p>
 
 <!-- BLOG-POST-LIST:START -->
-- [La guía sagrada de la optimización de costos en AWS](https://medium.com/@dan.avila7/la-gu%C3%ADa-sagrada-de-la-optimizaci%C3%B3n-de-costos-en-aws-66998948cd41?source=rss-3a9533f001c5------2)
-- [Bot en Twitter con Nodejs](https://medium.com/@dan.avila7/bot-en-twitter-con-nodejs-ccc35a8914ca?source=rss-3a9533f001c5------2)
-- [Modelos de GPT-3 y Codex](https://danielsan.hashnode.dev/modelos-de-gpt-3-y-codex)
-- [Instalación de Pytorch en Mac](https://medium.com/@dan.avila7/instalaci%C3%B3n-de-pytorch-en-mac-2aca3a82e8d3?source=rss-3a9533f001c5------2)
-- [CI/CD con Synthetic Monitoring de Datadog y Bitbucket pipelines](https://danielsan.hashnode.dev/cicd-con-synthetic-monitoring-de-datadog-y-bitbucket-pipelines)
 <!-- BLOG-POST-LIST:END -->
 
 ### Try my own VScode extensions
