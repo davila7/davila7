@@ -37,6 +37,9 @@
     <summary><h3>📺 Latest YouTube Videos</h3></summary>
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![ChatGPT dentro de VSCode! 😱](https://ytcards.demolab.com/?id=ztjZso7dVRQ&title=ChatGPT+dentro+de+VSCode%21+%F0%9F%98%B1&lang=en&timestamp=1672023937&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "ChatGPT dentro de VSCode! 😱")](https://www.youtube.com/watch?v=ztjZso7dVRQ)
+[![Crea un bot en Twitter con #nodejs y #javascript](https://ytcards.demolab.com/?id=shr_DCX1hMo&title=Crea+un+bot+en+Twitter+con+%23nodejs+y+%23javascript&lang=en&timestamp=1671552935&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Crea un bot en Twitter con #nodejs y #javascript")](https://www.youtube.com/watch?v=shr_DCX1hMo)
+[![Crea un bot en Twitter con Nodejs](https://ytcards.demolab.com/?id=hi_qOqTL4Hk&title=Crea+un+bot+en+Twitter+con+Nodejs&lang=en&timestamp=1671510847&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Crea un bot en Twitter con Nodejs")](https://www.youtube.com/watch?v=hi_qOqTL4Hk)
 <!-- END YOUTUBE-CARDS -->
 
 </details>
