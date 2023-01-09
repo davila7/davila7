@@ -62,11 +62,11 @@
     </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Fine-tuning de un modelo de OpenAI con AWS Serverless](https://medium.com/@dan.avila7/fine-tuning-de-un-modelo-de-openai-con-aws-serverless-a8b94fda4b8c?source=rss-3a9533f001c5------2)
 - [GPT-3 inside VSCode with official OpenAI API](https://danielsan.hashnode.dev/gpt-3-inside-vscode-with-official-openai-api)
 - [GPT-3 inside VSCode with official OpenAI API](https://medium.com/@dan.avila7/chatgpt-inside-vscode-with-official-openai-api-b265d451ad5f?source=rss-3a9533f001c5------2)
 - [GPT-3 inside VSCode with official OpenAI API](https://dev.to/dani_avila7/chatgpt-inside-vscode-with-official-openai-api-10n8)
 - [Crea una función Lambda con Serverless Framework y Datadog](https://danielsan.hashnode.dev/crea-una-funcion-lambda-con-serverless-framework-y-datadog)
-- [Tu perfil de Github like a pro!](https://medium.com/@dan.avila7/tu-perfil-de-github-like-a-pro-8436f90caf61?source=rss-3a9533f001c5------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Try my own VScode extensions
