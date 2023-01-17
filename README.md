@@ -62,11 +62,11 @@
     </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Experimento Be righ back #1: OpenAI Whisper para transcribir videos de Youtube](https://medium.com/@dan.avila7/experimento-be-righ-back-1-openai-whisper-para-transcribir-videos-de-youtube-e4ee42888901?source=rss-3a9533f001c5------2)
 - [Fine-tuning de un modelo de OpenAI con AWS Serverless](https://medium.com/@dan.avila7/fine-tuning-de-un-modelo-de-openai-con-aws-serverless-a8b94fda4b8c?source=rss-3a9533f001c5------2)
 - [GPT-3 inside VSCode with official OpenAI API](https://danielsan.hashnode.dev/gpt-3-inside-vscode-with-official-openai-api)
 - [GPT-3 inside VSCode with official OpenAI API](https://medium.com/@dan.avila7/chatgpt-inside-vscode-with-official-openai-api-b265d451ad5f?source=rss-3a9533f001c5------2)
 - [GPT-3 inside VSCode with official OpenAI API](https://dev.to/dani_avila7/chatgpt-inside-vscode-with-official-openai-api-10n8)
-- [Crea una función Lambda con Serverless Framework y Datadog](https://danielsan.hashnode.dev/crea-una-funcion-lambda-con-serverless-framework-y-datadog)
 <!-- BLOG-POST-LIST:END -->
 
 ### Try my own VScode extensions
