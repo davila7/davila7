@@ -37,12 +37,12 @@
     <summary><h3>📺 Latest YouTube Videos</h3></summary>
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Unit test with Code GPT #javascript #nodejs #chatgpt #gpt3 #openai #shorts #vscode](https://ytcards.demolab.com/?id=uQrbd7qpg5E&title=Unit+test+with+Code+GPT+%23javascript+%23nodejs+%23chatgpt+%23gpt3+%23openai+%23shorts+%23vscode&lang=en&timestamp=1674174056&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Unit test with Code GPT #javascript #nodejs #chatgpt #gpt3 #openai #shorts #vscode")](https://www.youtube.com/watch?v=uQrbd7qpg5E)
 [![Code GPT create code in Typescript from comments #shorts](https://ytcards.demolab.com/?id=5rbZ74aGG0s&title=Code+GPT+create+code+in+Typescript+from+comments+%23shorts&lang=en&timestamp=1673193042&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Code GPT create code in Typescript from comments #shorts")](https://www.youtube.com/watch?v=5rbZ74aGG0s)
 [![Crea un README.md de forma automática #shorts](https://ytcards.demolab.com/?id=SQ-tIRsFcdI&title=Crea+un+README.md+de+forma+autom%C3%A1tica+%23shorts&lang=en&timestamp=1672807539&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Crea un README.md de forma automática #shorts")](https://www.youtube.com/watch?v=SQ-tIRsFcdI)
 [![Crea tu propio ChatGPT como bot de Twitter 😎](https://ytcards.demolab.com/?id=zVHDeeyIbXs&title=Crea+tu+propio+ChatGPT+como+bot+de+Twitter+%F0%9F%98%8E&lang=en&timestamp=1672627723&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Crea tu propio ChatGPT como bot de Twitter 😎")](https://www.youtube.com/watch?v=zVHDeeyIbXs)
 [![ChatGPT dentro de VSCode! 😱](https://ytcards.demolab.com/?id=ztjZso7dVRQ&title=ChatGPT+dentro+de+VSCode%21+%F0%9F%98%B1&lang=en&timestamp=1672023937&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "ChatGPT dentro de VSCode! 😱")](https://www.youtube.com/watch?v=ztjZso7dVRQ)
 [![Crea un bot en Twitter con #nodejs y #javascript](https://ytcards.demolab.com/?id=shr_DCX1hMo&title=Crea+un+bot+en+Twitter+con+%23nodejs+y+%23javascript&lang=en&timestamp=1671552935&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Crea un bot en Twitter con #nodejs y #javascript")](https://www.youtube.com/watch?v=shr_DCX1hMo)
-[![Crea un bot en Twitter con Nodejs](https://ytcards.demolab.com/?id=hi_qOqTL4Hk&title=Crea+un+bot+en+Twitter+con+Nodejs&lang=en&timestamp=1671510847&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Crea un bot en Twitter con Nodejs")](https://www.youtube.com/watch?v=hi_qOqTL4Hk)
 <!-- END YOUTUBE-CARDS -->
 
 </details>
