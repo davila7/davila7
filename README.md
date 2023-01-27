@@ -62,11 +62,11 @@
     </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Compare human and GPT-3 responses on StackOverflow inside VSCode](https://danielsan.hashnode.dev/compare-human-and-gpt-3-responses-on-stackoverflow-inside-vscode)
 - [Compare human and AI responses on Stackoverflow using CodeGPT](https://dev.to/dani_avila7/compare-human-and-ai-responses-on-stackoverflow-using-codegpt-i1k)
 - [Compara respuestas humanas con las de una IA en Stackoverflow mediante CodeGPT](https://medium.com/@dan.avila7/compara-respuestas-humanas-con-las-de-una-ia-en-stackoverflow-mediante-codegpt-857f5e1be979?source=rss-3a9533f001c5------2)
 - [Experimento Be righ back #1: OpenAI Whisper para transcribir videos de Youtube](https://medium.com/@dan.avila7/experimento-be-righ-back-1-openai-whisper-para-transcribir-videos-de-youtube-e4ee42888901?source=rss-3a9533f001c5------2)
 - [Fine-tuning de un modelo de OpenAI con AWS Serverless](https://medium.com/@dan.avila7/fine-tuning-de-un-modelo-de-openai-con-aws-serverless-a8b94fda4b8c?source=rss-3a9533f001c5------2)
-- [GPT-3 inside VSCode with official OpenAI API](https://danielsan.hashnode.dev/gpt-3-inside-vscode-with-official-openai-api)
 <!-- BLOG-POST-LIST:END -->
 
 ### Try my own VScode extensions
