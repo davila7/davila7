@@ -62,7 +62,7 @@
     </p>
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Google Flan-T5 better than OpenAI GPT-3?](https://medium.com/latinxinai/is-google-flan-t5-better-than-openai-gpt-3-187fdaccf3a6?source=rss-3a9533f001c5------2)
+- [Is Google’s Flan-T5 Better Than OpenAI GPT-3?](https://betterprogramming.pub/is-google-flan-t5-better-than-openai-gpt-3-187fdaccf3a6?source=rss-3a9533f001c5------2)
 - [Compare human and GPT-3 responses on StackOverflow inside VSCode](https://danielsan.hashnode.dev/compare-human-and-gpt-3-responses-on-stackoverflow-inside-vscode)
 - [Compare human and AI responses on Stackoverflow using CodeGPT](https://dev.to/dani_avila7/compare-human-and-ai-responses-on-stackoverflow-using-codegpt-i1k)
 - [Compara respuestas humanas con las de una IA en Stackoverflow mediante CodeGPT](https://medium.com/@dan.avila7/compara-respuestas-humanas-con-las-de-una-ia-en-stackoverflow-mediante-codegpt-857f5e1be979?source=rss-3a9533f001c5------2)
