@@ -62,7 +62,7 @@
     </p>
 
 <!-- BLOG-POST-LIST:START -->
-- [Youtube GPT, start a chat with a video](https://medium.com/@dan.avila7/youtube-gpt-start-a-chat-with-a-video-efe92a499e60?source=rss-3a9533f001c5------2)
+- [Youtube GPT, start a chat with a video](https://betterprogramming.pub/youtube-gpt-start-a-chat-with-a-video-efe92a499e60?source=rss-3a9533f001c5------2)
 - [Is Google’s Flan-T5 Better Than OpenAI GPT-3?](https://betterprogramming.pub/is-google-flan-t5-better-than-openai-gpt-3-187fdaccf3a6?source=rss-3a9533f001c5------2)
 - [Compare human and GPT-3 responses on StackOverflow inside VSCode](https://danielsan.hashnode.dev/compare-human-and-gpt-3-responses-on-stackoverflow-inside-vscode)
 - [Compare human and AI responses on Stackoverflow using CodeGPT](https://dev.to/dani_avila7/compare-human-and-ai-responses-on-stackoverflow-using-codegpt-i1k)
