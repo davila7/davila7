@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Daniel%20San%20👨🏽‍💻%20|%20Serverless%20❤️&width=800&height=110)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Daniel%20San%20👨🏽‍💻%20|%20Serverless%20|%20Code%20GPT%20❤️&width=800&height=110)](https://github.com/Akshay090/svg-banners)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
