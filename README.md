@@ -62,11 +62,11 @@
     </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Set up an LLM project using a free GPU in Google Colab](https://medium.com/@dan.avila7/set-up-an-llm-project-using-a-free-gpu-in-google-colab-e55453bfc760?source=rss-3a9533f001c5------2)
 - [File GPT, conversación por chat con un archivo](https://medium.com/latinxinai/file-gpt-conversaci%C3%B3n-por-chat-con-un-archivo-698d17570358?source=rss-3a9533f001c5------2)
 - [YoutubeGPT, start a chat with a video 🤖](https://danielsan.hashnode.dev/youtubegpt-start-a-chat-with-a-video)
 - [YoutubeGPT, start a chat with a video 🤖](https://dev.to/dani_avila7/youtbe-gpt-start-a-chat-with-a-video-3ona)
 - [Youtube GPT, start a chat with a video](https://medium.com/latinxinai/youtube-gpt-start-a-chat-with-a-video-efe92a499e60?source=rss-3a9533f001c5------2)
-- [Is Google’s Flan-T5 Better Than OpenAI GPT-3?](https://betterprogramming.pub/is-google-flan-t5-better-than-openai-gpt-3-187fdaccf3a6?source=rss-3a9533f001c5------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Try my own VScode extensions
