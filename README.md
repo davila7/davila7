@@ -19,8 +19,10 @@
   </a>
 </p>
 <br>
-<h3 aling="center">If you want to create apps with artificial intelligence, start by installing Code GPT 👇</h3>
-<img width="766" alt="Captura de Pantalla 2023-03-18 a la(s) 7 32 12 p  m" src="https://user-images.githubusercontent.com/6216945/226145372-f31b6f5b-55e6-48ef-8ade-0a3ce218542e.png">
+<h3 aling="center">If you want to create apps with artificial intelligence, start by installing <a href="https://codegpt.co">Code GPT</a>👇</h3>
+<a href="https://codegpt.co">
+    <img width="766" alt="Captura de Pantalla 2023-03-18 a la(s) 7 32 12 p  m" src="https://user-images.githubusercontent.com/6216945/226145372-f31b6f5b-55e6-48ef-8ade-0a3ce218542e.png">
+</a>
 <br>
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
