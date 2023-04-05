@@ -42,12 +42,7 @@
     <summary><h3>📺 Latest YouTube Videos</h3></summary>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Colabora con el proyecto opensource Learn Prompting sobre Prompt Engineering](https://ytcards.demolab.com/?id=q5wuHUmGFMw&title=Colabora+con+el+proyecto+opensource+Learn+Prompting+sobre+Prompt+Engineering&lang=en&timestamp=1679887320&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Colabora con el proyecto opensource Learn Prompting sobre Prompt Engineering")](https://www.youtube.com/watch?v=q5wuHUmGFMw)
-[![#chatgpt #codegpt #gpt3 #openai #python #pythonprogramming #pythontutorial #javascript #react](https://ytcards.demolab.com/?id=LTWjdwHblcU&title=%23chatgpt+%23codegpt+%23gpt3+%23openai+%23python+%23pythonprogramming+%23pythontutorial+%23javascript+%23react&lang=en&timestamp=1676747453&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "#chatgpt #codegpt #gpt3 #openai #python #pythonprogramming #pythontutorial #javascript #react")](https://www.youtube.com/watch?v=LTWjdwHblcU)
-[![Unit test with Code GPT #javascript #nodejs #chatgpt #gpt3 #openai #shorts #vscode](https://ytcards.demolab.com/?id=uQrbd7qpg5E&title=Unit+test+with+Code+GPT+%23javascript+%23nodejs+%23chatgpt+%23gpt3+%23openai+%23shorts+%23vscode&lang=en&timestamp=1674174056&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Unit test with Code GPT #javascript #nodejs #chatgpt #gpt3 #openai #shorts #vscode")](https://www.youtube.com/watch?v=uQrbd7qpg5E)
-[![Code GPT create code in Typescript from comments #shorts](https://ytcards.demolab.com/?id=5rbZ74aGG0s&title=Code+GPT+create+code+in+Typescript+from+comments+%23shorts&lang=en&timestamp=1673193042&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Code GPT create code in Typescript from comments #shorts")](https://www.youtube.com/watch?v=5rbZ74aGG0s)
-[![Crea un README.md de forma automática #shorts](https://ytcards.demolab.com/?id=SQ-tIRsFcdI&title=Crea+un+README.md+de+forma+autom%C3%A1tica+%23shorts&lang=en&timestamp=1672807539&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Crea un README.md de forma automática #shorts")](https://www.youtube.com/watch?v=SQ-tIRsFcdI)
-[![Crea tu propio ChatGPT como bot de Twitter 😎](https://ytcards.demolab.com/?id=zVHDeeyIbXs&title=Crea+tu+propio+ChatGPT+como+bot+de+Twitter+%F0%9F%98%8E&lang=en&timestamp=1672627723&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Crea tu propio ChatGPT como bot de Twitter 😎")](https://www.youtube.com/watch?v=zVHDeeyIbXs)
+
 <!-- END YOUTUBE-CARDS -->
 
 </details>
