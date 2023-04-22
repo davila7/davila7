@@ -67,11 +67,11 @@
     </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Agentes Autónomos y Simulaciones en LLM: Un vistazo a AutoGPT, BabyAGI, CAMEL y Generative Agents](https://medium.com/latinxinai/agentes-aut%C3%B3nomos-y-simulaciones-en-llm-un-vistazo-a-autogpt-babyagi-camel-y-generative-agents-bdb0bbfcddac?source=rss-3a9533f001c5------2)
+- [Set Up an LLM Project Using a Free GPU in Google Colab](https://betterprogramming.pub/set-up-an-llm-project-using-a-free-gpu-in-google-colab-e55453bfc760?source=rss-3a9533f001c5------2)
+- [File GPT, conversación por chat con un archivo](https://medium.com/latinxinai/file-gpt-conversaci%C3%B3n-por-chat-con-un-archivo-698d17570358?source=rss-3a9533f001c5------2)
 - [YoutubeGPT, start a chat with a video 🤖](https://danielsan.hashnode.dev/youtubegpt-start-a-chat-with-a-video)
 - [YoutubeGPT, start a chat with a video 🤖](https://dev.to/dani_avila7/youtbe-gpt-start-a-chat-with-a-video-3ona)
-- [Compare human and GPT-3 responses on StackOverflow inside VSCode](https://danielsan.hashnode.dev/compare-human-and-gpt-3-responses-on-stackoverflow-inside-vscode)
-- [Compare human and AI responses on Stackoverflow using CodeGPT](https://dev.to/dani_avila7/compare-human-and-ai-responses-on-stackoverflow-using-codegpt-i1k)
-- [GPT-3 inside VSCode with official OpenAI API](https://danielsan.hashnode.dev/gpt-3-inside-vscode-with-official-openai-api)
 <!-- BLOG-POST-LIST:END -->
 
 ### Try my own VScode extensions
