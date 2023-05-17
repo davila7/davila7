@@ -67,7 +67,7 @@
     </p>
 
 <!-- BLOG-POST-LIST:START -->
-- [Constitutional AI &lpar;CAI&rpar;: Una constitución para la Inteligencia Artificial](https://medium.com/@dan.avila7/constitutional-ai-cai-una-constituci%C3%B3n-para-la-inteligencia-artificial-2e5d99b55793?source=rss-3a9533f001c5------2)
+- [Constitutional AI &lpar;CAI&rpar;: Una constitución para la Inteligencia Artificial](https://medium.com/latinxinai/constitutional-ai-cai-una-constituci%C3%B3n-para-la-inteligencia-artificial-2e5d99b55793?source=rss-3a9533f001c5------2)
 - [AI-Exchange Protocol &lpar;AIXP&rpar;: A Communication Standard for Artificial Intelligence Agents](https://betterprogramming.pub/ai-exchange-protocol-aixp-a-communication-standard-for-artificial-intelligence-agents-3ceae7d4c759?source=rss-3a9533f001c5------2)
 - [Búsqueda semántica y Embedding con Cohere](https://medium.com/latinxinai/b%C3%BAsqueda-sem%C3%A1ntica-y-embedding-con-cohere-4a14e0209cd9?source=rss-3a9533f001c5------2)
 - [Agentes Autónomos y Simulaciones en LLM: Un vistazo a AutoGPT, BabyAGI, CAMEL y Generative Agents](https://medium.com/latinxinai/agentes-aut%C3%B3nomos-y-simulaciones-en-llm-un-vistazo-a-autogpt-babyagi-camel-y-generative-agents-bdb0bbfcddac?source=rss-3a9533f001c5------2)
