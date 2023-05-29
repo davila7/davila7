@@ -67,11 +67,11 @@
     </p>
 
 <!-- BLOG-POST-LIST:START -->
-- [YoutubeGPT, start a chat with a video 🤖](https://danielsan.hashnode.dev/youtubegpt-start-a-chat-with-a-video)
-- [YoutubeGPT, start a chat with a video 🤖](https://dev.to/dani_avila7/youtbe-gpt-start-a-chat-with-a-video-3ona)
-- [Compare human and GPT-3 responses on StackOverflow inside VSCode](https://danielsan.hashnode.dev/compare-human-and-gpt-3-responses-on-stackoverflow-inside-vscode)
-- [Compare human and AI responses on Stackoverflow using CodeGPT](https://dev.to/dani_avila7/compare-human-and-ai-responses-on-stackoverflow-using-codegpt-i1k)
-- [GPT-3 inside VSCode with official OpenAI API](https://danielsan.hashnode.dev/gpt-3-inside-vscode-with-official-openai-api)
+- [Monolitos, Microservicios o Serverless: ¿Cuál es la mejor opción?](https://medium.com/@dan.avila7/monolitos-microservicios-o-serverless-cu%C3%A1l-es-la-mejor-opci%C3%B3n-67f72923d840?source=rss-3a9533f001c5------2)
+- [Constitutional AI &lpar;CAI&rpar;: Una constitución para la Inteligencia Artificial](https://medium.com/latinxinai/constitutional-ai-cai-una-constituci%C3%B3n-para-la-inteligencia-artificial-2e5d99b55793?source=rss-3a9533f001c5------2)
+- [AI-Exchange Protocol &lpar;AIXP&rpar;: A Communication Standard for Artificial Intelligence Agents](https://betterprogramming.pub/ai-exchange-protocol-aixp-a-communication-standard-for-artificial-intelligence-agents-3ceae7d4c759?source=rss-3a9533f001c5------2)
+- [Búsqueda semántica y Embedding con Cohere](https://medium.com/latinxinai/b%C3%BAsqueda-sem%C3%A1ntica-y-embedding-con-cohere-4a14e0209cd9?source=rss-3a9533f001c5------2)
+- [Agentes Autónomos y Simulaciones en LLM: Un vistazo a AutoGPT, BabyAGI, CAMEL y Generative Agents](https://medium.com/latinxinai/agentes-aut%C3%B3nomos-y-simulaciones-en-llm-un-vistazo-a-autogpt-babyagi-camel-y-generative-agents-bdb0bbfcddac?source=rss-3a9533f001c5------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Try my own VScode extensions
