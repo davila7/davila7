@@ -67,11 +67,11 @@
     </p>
 
 <!-- BLOG-POST-LIST:START -->
-- [Aya: Un Proyecto Multilingüe para Democratizar el Acceso al Procesamiento del Lenguaje Natural](https://medium.com/@dan.avila7/aya-un-proyecto-multiling%C3%BCe-para-democratizar-el-acceso-al-procesamiento-del-lenguaje-natural-8e129deed2e3?source=rss-3a9533f001c5------2)
-- [Try Gorilla: A Large Language Model Connected with Massive APIs](https://medium.com/latinxinai/try-gorilla-a-large-language-model-connected-with-massive-apis-442f3b554ffb?source=rss-3a9533f001c5------2)
-- [Monolitos, Microservicios o Serverless: ¿Cuál es la mejor opción?](https://medium.com/@dan.avila7/monolitos-microservicios-o-serverless-cu%C3%A1l-es-la-mejor-opci%C3%B3n-67f72923d840?source=rss-3a9533f001c5------2)
-- [Constitutional AI &lpar;CAI&rpar;: Una constitución para la Inteligencia Artificial](https://medium.com/latinxinai/constitutional-ai-cai-una-constituci%C3%B3n-para-la-inteligencia-artificial-2e5d99b55793?source=rss-3a9533f001c5------2)
-- [AI-Exchange Protocol &lpar;AIXP&rpar;: A Communication Standard for Artificial Intelligence Agents](https://betterprogramming.pub/ai-exchange-protocol-aixp-a-communication-standard-for-artificial-intelligence-agents-3ceae7d4c759?source=rss-3a9533f001c5------2)
+- [YoutubeGPT, start a chat with a video 🤖](https://danielsan.hashnode.dev/youtubegpt-start-a-chat-with-a-video)
+- [YoutubeGPT, start a chat with a video 🤖](https://dev.to/dani_avila7/youtbe-gpt-start-a-chat-with-a-video-3ona)
+- [Compare human and GPT-3 responses on StackOverflow inside VSCode](https://danielsan.hashnode.dev/compare-human-and-gpt-3-responses-on-stackoverflow-inside-vscode)
+- [Compare human and AI responses on Stackoverflow using CodeGPT](https://dev.to/dani_avila7/compare-human-and-ai-responses-on-stackoverflow-using-codegpt-i1k)
+- [GPT-3 inside VSCode with official OpenAI API](https://danielsan.hashnode.dev/gpt-3-inside-vscode-with-official-openai-api)
 <!-- BLOG-POST-LIST:END -->
 
 ### Try my own VScode extensions
