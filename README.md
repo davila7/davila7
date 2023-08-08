@@ -67,7 +67,7 @@
     </p>
 
 <!-- BLOG-POST-LIST:START -->
-- [Visualizing embeddings and semantic similarity with OpenAI and Nomic](https://medium.com/@dan.avila7/visualizing-embeddings-and-semantic-similarity-with-openai-and-nomic-c48e66d3aa53?source=rss-3a9533f001c5------2)
+- [Visualizing embeddings and semantic similarity with OpenAI and Nomic](https://medium.com/latinxinai/visualizing-embeddings-and-semantic-similarity-with-openai-and-nomic-c48e66d3aa53?source=rss-3a9533f001c5------2)
 - [Aya: Un Proyecto Multilingüe para Democratizar el Acceso al Procesamiento del Lenguaje Natural](https://medium.com/latinxinai/aya-un-proyecto-multiling%C3%BCe-para-democratizar-el-acceso-al-procesamiento-del-lenguaje-natural-8e129deed2e3?source=rss-3a9533f001c5------2)
 - [Try Gorilla: A Large Language Model Connected with Massive APIs](https://medium.com/latinxinai/try-gorilla-a-large-language-model-connected-with-massive-apis-442f3b554ffb?source=rss-3a9533f001c5------2)
 - [Monolitos, Microservicios o Serverless: ¿Cuál es la mejor opción?](https://medium.com/@dan.avila7/monolitos-microservicios-o-serverless-cu%C3%A1l-es-la-mejor-opci%C3%B3n-67f72923d840?source=rss-3a9533f001c5------2)
