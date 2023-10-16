@@ -67,11 +67,11 @@
     </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Crea un bot experto en tus datos para Discord](https://medium.com/@dan.avila7/crea-un-bot-experto-en-tus-datos-para-discord-b1f303a4d391?source=rss-3a9533f001c5------2)
 - [Visualizing embeddings and semantic similarity with OpenAI and Nomic](https://medium.com/latinxinai/visualizing-embeddings-and-semantic-similarity-with-openai-and-nomic-c48e66d3aa53?source=rss-3a9533f001c5------2)
 - [Aya: Un Proyecto Multilingüe para Democratizar el Acceso al Procesamiento del Lenguaje Natural](https://medium.com/latinxinai/aya-un-proyecto-multiling%C3%BCe-para-democratizar-el-acceso-al-procesamiento-del-lenguaje-natural-8e129deed2e3?source=rss-3a9533f001c5------2)
 - [Try Gorilla: A Large Language Model Connected with Massive APIs](https://medium.com/latinxinai/try-gorilla-a-large-language-model-connected-with-massive-apis-442f3b554ffb?source=rss-3a9533f001c5------2)
 - [Monolitos, Microservicios o Serverless: ¿Cuál es la mejor opción?](https://medium.com/@dan.avila7/monolitos-microservicios-o-serverless-cu%C3%A1l-es-la-mejor-opci%C3%B3n-67f72923d840?source=rss-3a9533f001c5------2)
-- [Constitutional AI &lpar;CAI&rpar;: Una constitución para la Inteligencia Artificial](https://medium.com/latinxinai/constitutional-ai-cai-una-constituci%C3%B3n-para-la-inteligencia-artificial-2e5d99b55793?source=rss-3a9533f001c5------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Try my own VScode extensions
