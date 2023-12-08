@@ -67,11 +67,11 @@
     </p>
 
 <!-- BLOG-POST-LIST:START -->
-- [YoutubeGPT, start a chat with a video 🤖](https://danielsan.hashnode.dev/youtubegpt-start-a-chat-with-a-video)
-- [YoutubeGPT, start a chat with a video 🤖](https://dev.to/dani_avila7/youtbe-gpt-start-a-chat-with-a-video-3ona)
-- [Compare human and GPT-3 responses on StackOverflow inside VSCode](https://danielsan.hashnode.dev/compare-human-and-gpt-3-responses-on-stackoverflow-inside-vscode)
-- [Compare human and AI responses on Stackoverflow using CodeGPT](https://dev.to/dani_avila7/compare-human-and-ai-responses-on-stackoverflow-using-codegpt-i1k)
-- [GPT-3 inside VSCode with official OpenAI API](https://danielsan.hashnode.dev/gpt-3-inside-vscode-with-official-openai-api)
+- [Free and Private Copilot: The Future of Coding with LLMs in VSCode](https://medium.com/codegpt/free-and-private-copilot-the-future-of-coding-with-llms-in-vscode-372330c5b163?source=rss-3a9533f001c5------2)
+- [Crea un bot experto en tus datos para Discord](https://medium.com/latinxinai/crea-un-bot-experto-en-tus-datos-para-discord-b1f303a4d391?source=rss-3a9533f001c5------2)
+- [Visualizing embeddings and semantic similarity with OpenAI and Nomic](https://medium.com/latinxinai/visualizing-embeddings-and-semantic-similarity-with-openai-and-nomic-c48e66d3aa53?source=rss-3a9533f001c5------2)
+- [Aya: Un Proyecto Multilingüe para Democratizar el Acceso al Procesamiento del Lenguaje Natural](https://medium.com/latinxinai/aya-un-proyecto-multiling%C3%BCe-para-democratizar-el-acceso-al-procesamiento-del-lenguaje-natural-8e129deed2e3?source=rss-3a9533f001c5------2)
+- [Try Gorilla: A Large Language Model Connected with Massive APIs](https://medium.com/latinxinai/try-gorilla-a-large-language-model-connected-with-massive-apis-442f3b554ffb?source=rss-3a9533f001c5------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Try my own VScode extensions
