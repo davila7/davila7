@@ -34,7 +34,7 @@
 <br>
 <h3 aling="center">If you want to create apps with artificial intelligence, start by installing <a href="https://codegpt.co">Code GPT</a>👇</h3>
 <a href="https://codegpt.co">
-    <img width="766" alt="Captura de Pantalla 2023-03-18 a la(s) 7 32 12 p  m" src="https://user-images.githubusercontent.com/6216945/226145372-f31b6f5b-55e6-48ef-8ade-0a3ce218542e.png">
+    <img width="766" alt="captura" src="https://github.com/davila7/davila7/assets/6216945/96db4868-8707-4f8d-89ec-a4f45bf7059f">
 </a>
 <br>
 <!-- Social badges section -->
