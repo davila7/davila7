@@ -23,13 +23,13 @@
 
 👨🏽‍💻 I'm a serverless developer and AI enthusiast. I love building apps with artificial intelligence and exploring new technologies.
 
-🔭 I’m currently working on [Code GPT](https://github.com/Akshay090/svg-banners), a VSCode extension that brings GPT-3 to your editor.
+🔭 I’m currently working on [Code GPT](https://codegpt.co), a VSCode extension that brings AI to your code editor.
 
-🌱 I’m currently learning about natural language processing and computer vision.
+🌱 I’m currently learning about natural language processing, LLMs and computer vision.
 
 💬 Ask me about serverless, AI, or anything tech-related!
 
-📫 How to reach me: [Twitter](https://twitter.com/danielsan_dev) or [LinkedIn](https://www.linkedin.com/in/danielsan-dev/)
+📫 How to reach me: [Twitter](https://twitter.com/dani_avila7) or [LinkedIn](https://www.linkedin.com/in/daniel-avila-arias/)
 
 <br>
 <h3 aling="center">If you want to create apps with artificial intelligence, start by installing <a href="https://codegpt.co">Code GPT</a>👇</h3>
