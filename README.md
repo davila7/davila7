@@ -81,7 +81,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Desafíos Éticos en la IA: Sesgos de Género y Racial en Modelos de Lenguaje Generativos](https://medium.com/latinxinai/desaf%C3%ADos-%C3%A9ticos-en-la-ia-sesgos-de-g%C3%A9nero-y-racial-en-modelos-de-lenguaje-generativos-2f39f71c2de4?source=rss-3a9533f001c5------2)
-- [Free and Private Copilot: The Future of Coding with LLMs in VSCode](https://medium.com/codegpt/free-and-private-copilot-the-future-of-coding-with-llms-in-vscode-372330c5b163?source=rss-3a9533f001c5------2)
+- [Free and Private Copilot: The Future of Coding with LLMs in VSCode](https://blog.codegpt.co/free-and-private-copilot-the-future-of-coding-with-llms-in-vscode-372330c5b163?source=rss-3a9533f001c5------2)
 - [Crea un bot experto en tus datos para Discord](https://medium.com/latinxinai/crea-un-bot-experto-en-tus-datos-para-discord-b1f303a4d391?source=rss-3a9533f001c5------2)
 - [Visualizing embeddings and semantic similarity with OpenAI and Nomic](https://medium.com/latinxinai/visualizing-embeddings-and-semantic-similarity-with-openai-and-nomic-c48e66d3aa53?source=rss-3a9533f001c5------2)
 - [Aya: Un Proyecto Multilingüe para Democratizar el Acceso al Procesamiento del Lenguaje Natural](https://medium.com/latinxinai/aya-un-proyecto-multiling%C3%BCe-para-democratizar-el-acceso-al-procesamiento-del-lenguaje-natural-8e129deed2e3?source=rss-3a9533f001c5------2)
