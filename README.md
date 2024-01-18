@@ -80,11 +80,11 @@
     </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Use AWS Bedrock like a Copilot in VSCode](https://medium.com/@dan.avila7/use-aws-bedrock-like-a-copilot-in-vscode-48756ac25e6e?source=rss-3a9533f001c5------2)
 - [Semantic Router: Enhancing Control in LLM Conversations](https://blog.codegpt.co/semantic-router-enhancing-control-in-llm-conversations-68ce905c8d33?source=rss-3a9533f001c5------2)
 - [Estructuras de Prompts para trabajar con LLMs](https://medium.com/@dan.avila7/estructuras-de-prompt-para-trabajar-con-llms-225edea51a69?source=rss-3a9533f001c5------2)
 - [Desafíos Éticos en la IA: Sesgos de Género y Racial en Modelos de Lenguaje Generativos](https://medium.com/latinxinai/desaf%C3%ADos-%C3%A9ticos-en-la-ia-sesgos-de-g%C3%A9nero-y-racial-en-modelos-de-lenguaje-generativos-2f39f71c2de4?source=rss-3a9533f001c5------2)
 - [Free and Private Copilot: The Future of Coding with LLMs in VSCode](https://blog.codegpt.co/free-and-private-copilot-the-future-of-coding-with-llms-in-vscode-372330c5b163?source=rss-3a9533f001c5------2)
-- [Crea un bot experto en tus datos para Discord](https://medium.com/latinxinai/crea-un-bot-experto-en-tus-datos-para-discord-b1f303a4d391?source=rss-3a9533f001c5------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Try my own VScode extensions
