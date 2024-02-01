@@ -80,11 +80,11 @@
     </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [The best FREE courses on Generative AI from Google, Microsoft, and Amazon](https://medium.com/latinxinai/the-best-free-courses-on-generative-ai-from-google-microsoft-and-amazon-945d729b6b5c?source=rss-3a9533f001c5------2)
 - [Los mejores cursos GRATUITOS sobre IA Generativa de Google, Microsoft y Amazon](https://medium.com/latinxinai/los-mejores-cursos-gratuitos-sobre-ia-generativa-de-google-microsoft-y-amazon-542b9802b6ee?source=rss-3a9533f001c5------2)
 - [Use AWS Bedrock like a Copilot in VSCode](https://medium.com/@dan.avila7/use-aws-bedrock-like-a-copilot-in-vscode-48756ac25e6e?source=rss-3a9533f001c5------2)
 - [Semantic Router: Enhancing Control in LLM Conversations](https://blog.codegpt.co/semantic-router-enhancing-control-in-llm-conversations-68ce905c8d33?source=rss-3a9533f001c5------2)
 - [Estructuras de Prompts para trabajar con LLMs](https://medium.com/@dan.avila7/estructuras-de-prompt-para-trabajar-con-llms-225edea51a69?source=rss-3a9533f001c5------2)
-- [Desafíos Éticos en la IA: Sesgos de Género y Racial en Modelos de Lenguaje Generativos](https://medium.com/latinxinai/desaf%C3%ADos-%C3%A9ticos-en-la-ia-sesgos-de-g%C3%A9nero-y-racial-en-modelos-de-lenguaje-generativos-2f39f71c2de4?source=rss-3a9533f001c5------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Try my own VScode extensions
