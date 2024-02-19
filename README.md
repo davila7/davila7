@@ -80,11 +80,11 @@
     </p>
 
 <!-- BLOG-POST-LIST:START -->
-- [Cómo logré entrar al programa de AWS Community Builder](https://medium.com/@dan.avila7/c%C3%B3mo-logr%C3%A9-entrar-al-programa-de-aws-community-builder-b6154cb31e5c?source=rss-3a9533f001c5------2)
-- [The best FREE courses on Generative AI from Google, Microsoft, and Amazon](https://medium.com/latinxinai/the-best-free-courses-on-generative-ai-from-google-microsoft-and-amazon-945d729b6b5c?source=rss-3a9533f001c5------2)
-- [Los mejores cursos GRATUITOS sobre IA Generativa de Google, Microsoft y Amazon](https://medium.com/latinxinai/los-mejores-cursos-gratuitos-sobre-ia-generativa-de-google-microsoft-y-amazon-542b9802b6ee?source=rss-3a9533f001c5------2)
-- [Use AWS Bedrock like a Copilot in VSCode](https://medium.com/@dan.avila7/use-aws-bedrock-like-a-copilot-in-vscode-48756ac25e6e?source=rss-3a9533f001c5------2)
-- [Semantic Router: Enhancing Control in LLM Conversations](https://blog.codegpt.co/semantic-router-enhancing-control-in-llm-conversations-68ce905c8d33?source=rss-3a9533f001c5------2)
+- [YoutubeGPT, start a chat with a video 🤖](https://danielsan.hashnode.dev/youtubegpt-start-a-chat-with-a-video)
+- [YoutubeGPT, start a chat with a video 🤖](https://dev.to/dani_avila7/youtbe-gpt-start-a-chat-with-a-video-3ona)
+- [Compare human and GPT-3 responses on StackOverflow inside VSCode](https://danielsan.hashnode.dev/compare-human-and-gpt-3-responses-on-stackoverflow-inside-vscode)
+- [Compare human and AI responses on Stackoverflow using CodeGPT](https://dev.to/dani_avila7/compare-human-and-ai-responses-on-stackoverflow-using-codegpt-i1k)
+- [GPT-3 inside VSCode with official OpenAI API](https://danielsan.hashnode.dev/gpt-3-inside-vscode-with-official-openai-api)
 <!-- BLOG-POST-LIST:END -->
 
 ### Try my own VScode extensions
