@@ -80,11 +80,11 @@
     </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Enhancing Security: Setting Up a Password Policy in AWS](https://medium.com/@dan.avila7/enhancing-security-setting-up-a-password-policy-in-aws-16e330349201?source=rss-3a9533f001c5------2)
 - [Cómo logré entrar al programa de AWS Community Builder](https://medium.com/@dan.avila7/c%C3%B3mo-logr%C3%A9-entrar-al-programa-de-aws-community-builder-b6154cb31e5c?source=rss-3a9533f001c5------2)
 - [The best FREE courses on Generative AI from Google, Microsoft, and Amazon](https://medium.com/latinxinai/the-best-free-courses-on-generative-ai-from-google-microsoft-and-amazon-945d729b6b5c?source=rss-3a9533f001c5------2)
 - [Los mejores cursos GRATUITOS sobre IA Generativa de Google, Microsoft y Amazon](https://medium.com/latinxinai/los-mejores-cursos-gratuitos-sobre-ia-generativa-de-google-microsoft-y-amazon-542b9802b6ee?source=rss-3a9533f001c5------2)
 - [Use AWS Bedrock like a Copilot in VSCode](https://medium.com/@dan.avila7/use-aws-bedrock-like-a-copilot-in-vscode-48756ac25e6e?source=rss-3a9533f001c5------2)
-- [Semantic Router: Enhancing Control in LLM Conversations](https://blog.codegpt.co/semantic-router-enhancing-control-in-llm-conversations-68ce905c8d33?source=rss-3a9533f001c5------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Try my own VScode extensions
