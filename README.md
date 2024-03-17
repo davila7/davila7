@@ -80,11 +80,11 @@
     </p>
 
 <!-- BLOG-POST-LIST:START -->
-- [Connecting Claude 3 to VSCode as a Copilot: A Quick and Easy Tutorial](https://medium.com/@dan.avila7/connecting-claude-3-to-vscode-as-a-copilot-a-quick-and-easy-tutorial-c011d33f500c?source=rss-3a9533f001c5------2)
-- [Create your own and custom Copilot in VSCode with Ollama and CodeGPT](https://blog.codegpt.co/create-your-own-and-custom-copilot-in-vscode-with-ollama-and-codegpt-736277a60298?source=rss-3a9533f001c5------2)
-- [Enhancing Security: Setting Up a Password Policy in AWS](https://medium.com/@dan.avila7/enhancing-security-setting-up-a-password-policy-in-aws-16e330349201?source=rss-3a9533f001c5------2)
-- [Cómo logré entrar al programa de AWS Community Builder](https://medium.com/@dan.avila7/c%C3%B3mo-logr%C3%A9-entrar-al-programa-de-aws-community-builder-b6154cb31e5c?source=rss-3a9533f001c5------2)
-- [The best FREE courses on Generative AI from Google, Microsoft, and Amazon](https://medium.com/latinxinai/the-best-free-courses-on-generative-ai-from-google-microsoft-and-amazon-945d729b6b5c?source=rss-3a9533f001c5------2)
+- [YoutubeGPT, start a chat with a video 🤖](https://danielsan.hashnode.dev/youtubegpt-start-a-chat-with-a-video)
+- [YoutubeGPT, start a chat with a video 🤖](https://dev.to/dani_avila7/youtbe-gpt-start-a-chat-with-a-video-3ona)
+- [Compare human and GPT-3 responses on StackOverflow inside VSCode](https://danielsan.hashnode.dev/compare-human-and-gpt-3-responses-on-stackoverflow-inside-vscode)
+- [Compare human and AI responses on Stackoverflow using CodeGPT](https://dev.to/dani_avila7/compare-human-and-ai-responses-on-stackoverflow-using-codegpt-i1k)
+- [GPT-3 inside VSCode with official OpenAI API](https://danielsan.hashnode.dev/gpt-3-inside-vscode-with-official-openai-api)
 <!-- BLOG-POST-LIST:END -->
 
 ### Try my own VScode extensions
