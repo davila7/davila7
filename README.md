@@ -80,7 +80,7 @@
     </p>
 
 <!-- BLOG-POST-LIST:START -->
-- [Create a Custom Copilot with the full Codebase from a GitHub Repository](https://medium.com/@dan.avila7/create-a-custom-copilot-with-the-full-codebase-from-a-github-repository-d145601245f4?source=rss-3a9533f001c5------2)
+- [Create a Custom Copilot with the full Codebase from a GitHub Repository](https://blog.codegpt.co/create-a-custom-copilot-with-the-full-codebase-from-a-github-repository-d145601245f4?source=rss-3a9533f001c5------2)
 - [Connecting Claude 3 to VSCode as a Copilot: A Quick and Easy Tutorial](https://medium.com/@dan.avila7/connecting-claude-3-to-vscode-as-a-copilot-a-quick-and-easy-tutorial-c011d33f500c?source=rss-3a9533f001c5------2)
 - [Create your own and custom Copilot in VSCode with Ollama and CodeGPT](https://blog.codegpt.co/create-your-own-and-custom-copilot-in-vscode-with-ollama-and-codegpt-736277a60298?source=rss-3a9533f001c5------2)
 - [Enhancing Security: Setting Up a Password Policy in AWS](https://medium.com/@dan.avila7/enhancing-security-setting-up-a-password-policy-in-aws-16e330349201?source=rss-3a9533f001c5------2)
