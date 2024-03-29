@@ -55,12 +55,7 @@
     <summary><h3>📺 Latest YouTube Videos</h3></summary>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Crea tu Copilot gratuito y privado en VSCode con Ollama y CodeGPT](https://ytcards.demolab.com/?id=M4cPMjtLFlQ&title=Crea+tu+Copilot+gratuito+y+privado+en+VSCode+con+Ollama+y+CodeGPT&lang=en&timestamp=1711242823&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Crea tu Copilot gratuito y privado en VSCode con Ollama y CodeGPT")](https://www.youtube.com/watch?v=M4cPMjtLFlQ)
-[![VIM vs VSCode + CodeGPT: Programar con lenguaje natural](https://ytcards.demolab.com/?id=WK-HEjpbZ_Q&title=VIM+vs+VSCode+%2B+CodeGPT%3A+Programar+con+lenguaje+natural&lang=en&timestamp=1703955846&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "VIM vs VSCode + CodeGPT: Programar con lenguaje natural")](https://www.youtube.com/watch?v=WK-HEjpbZ_Q)
-[![Programación con Agentes de IA Generativa](https://ytcards.demolab.com/?id=c8M8-JSLoLo&title=Programaci%C3%B3n+con+Agentes+de+IA+Generativa&lang=en&timestamp=1703127138&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Programación con Agentes de IA Generativa")](https://www.youtube.com/watch?v=c8M8-JSLoLo)
-[![Crea tu Copilot con los modelos Claude de Anthropic en VSCode](https://ytcards.demolab.com/?id=CNJ7WEDpz9M&title=Crea+tu+Copilot+con+los+modelos+Claude+de+Anthropic+en+VSCode&lang=en&timestamp=1698546721&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Crea tu Copilot con los modelos Claude de Anthropic en VSCode")](https://www.youtube.com/watch?v=CNJ7WEDpz9M)
-[![CodeGPT conectado con Microsoft Azure en Visual Studio Code](https://ytcards.demolab.com/?id=IieFRzGL4os&title=CodeGPT+conectado+con+Microsoft+Azure+en+Visual+Studio+Code&lang=en&timestamp=1695336851&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CodeGPT conectado con Microsoft Azure en Visual Studio Code")](https://www.youtube.com/watch?v=IieFRzGL4os)
-[![Contribuye al proyecto Aya de Cohere for AI](https://ytcards.demolab.com/?id=aaVrMzIj2Y0&title=Contribuye+al+proyecto+Aya+de+Cohere+for+AI&lang=en&timestamp=1686268417&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Contribuye al proyecto Aya de Cohere for AI")](https://www.youtube.com/watch?v=aaVrMzIj2Y0)
+
 <!-- END YOUTUBE-CARDS -->
 
 </details>
