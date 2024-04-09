@@ -86,13 +86,6 @@
 - [Enhancing Security: Setting Up a Password Policy in AWS](https://medium.com/@dan.avila7/enhancing-security-setting-up-a-password-policy-in-aws-16e330349201?source=rss-3a9533f001c5------2)
 - [Cómo logré entrar al programa de AWS Community Builder](https://medium.com/@dan.avila7/c%C3%B3mo-logr%C3%A9-entrar-al-programa-de-aws-community-builder-b6154cb31e5c?source=rss-3a9533f001c5------2)
 <!-- BLOG-POST-LIST:END -->
-
-### Try my own VScode extensions
-
-- [Code GPT: GPT-3 inside VSCode](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt)
-- [Daniel San Medium: All my Medium articles inside VSCode](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.blog-feed-rss)
-
-
 </details>
 
 <details open> 
