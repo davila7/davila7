@@ -21,7 +21,7 @@
 
 ### Hi there, I'm Daniel San 👋
 
-👨🏽‍💻 I'm a serverless developer and AI enthusiast. I love building apps with artificial intelligence and exploring new technologies.
+👨🏽‍💻 I am a developer with more than 15 years of experience. I love building apps with artificial intelligence and exploring new technologies.
 
 🔭 I’m currently working on [Code GPT](https://codegpt.co), a VSCode extension that brings AI to your code editor.
 
