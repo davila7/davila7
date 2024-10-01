@@ -80,11 +80,11 @@
     </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Models Now Execute Code Directly in VSCode with CodeGPT’s Code Interpreter](https://medium.com/@dan.avila7/ai-models-now-execute-code-directly-in-vscode-with-codegpts-code-interpreter-b8c824e3f919?source=rss-3a9533f001c5------2)
 - [Llama 3.2 Running Locally in VSCode: How to Set It Up with CodeGPT and Ollama](https://dev.to/dani_avila7/llama-32-running-locally-in-vscode-how-to-set-it-up-with-codegpt-and-ollama-h1n)
 - [Llama 3.2 Running Locally in VSCode: How to Set It Up with CodeGPT and Olla](https://medium.com/latinxinai/llama-3-2-running-locally-in-vscode-how-to-set-it-up-with-codegpt-and-olla-8d33fd29c195?source=rss-3a9533f001c5------2)
 - [Lightning-Fast Code Assistant with Groq in VSCode](https://dev.to/dani_avila7/lightning-fast-code-assistant-with-groq-in-vscode-4eme)
 - [Lightning-Fast Code Assistant with Groq in VSCode](https://blog.codegpt.co/lightning-fast-code-assistant-with-groq-in-vscode-8322104af13d?source=rss-3a9533f001c5------2)
-- [Running Llama3 as Copilot in VSCode powered by NVIDIA AI](https://blog.codegpt.co/running-llama3-as-copilot-in-vscode-powered-by-nvidia-ai-c77293599c4b?source=rss-3a9533f001c5------2)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
