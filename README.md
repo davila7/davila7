@@ -80,11 +80,11 @@
     </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Supercharge Your Vue.js 3 Development with CodeGPT’s Expert Agent in VSCode](https://medium.com/@dan.avila7/supercharge-your-vue-js-3-development-with-codegpts-expert-agent-in-vscode-1fc2dd6d868e?source=rss-3a9533f001c5------2)
 - [AI Models Now Execute Code Directly in VSCode with CodeGPT’s Code Interpreter](https://medium.com/@dan.avila7/ai-models-now-execute-code-directly-in-vscode-with-codegpts-code-interpreter-b8c824e3f919?source=rss-3a9533f001c5------2)
 - [Llama 3.2 Running Locally in VSCode: How to Set It Up with CodeGPT and Ollama](https://dev.to/dani_avila7/llama-32-running-locally-in-vscode-how-to-set-it-up-with-codegpt-and-ollama-h1n)
 - [Llama 3.2 Running Locally in VSCode: How to Set It Up with CodeGPT and Olla](https://medium.com/latinxinai/llama-3-2-running-locally-in-vscode-how-to-set-it-up-with-codegpt-and-olla-8d33fd29c195?source=rss-3a9533f001c5------2)
 - [Lightning-Fast Code Assistant with Groq in VSCode](https://dev.to/dani_avila7/lightning-fast-code-assistant-with-groq-in-vscode-4eme)
-- [Lightning-Fast Code Assistant with Groq in VSCode](https://blog.codegpt.co/lightning-fast-code-assistant-with-groq-in-vscode-8322104af13d?source=rss-3a9533f001c5------2)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
