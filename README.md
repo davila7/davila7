@@ -80,11 +80,11 @@
     </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Automating WhatsApp Responses with CodeGPT and WhatsApp Web.js](https://medium.com/@dan.avila7/automating-whatsapp-responses-with-codegpt-and-whatsapp-web-js-4abcabbaf4d6?source=rss-3a9533f001c5------2)
 - [Secure, Private, and Local Code Development with Qwen2.5-Coder](https://medium.com/@dan.avila7/secure-private-and-local-code-development-with-qwen2-5-coder-b6c891c1fca6?source=rss-3a9533f001c5------2)
 - [Boost Your AWS Lambda Development with AI Expert Assistant in VSCode](https://medium.com/@dan.avila7/boost-your-aws-lambda-development-with-codegpts-ai-expert-assistant-in-vscode-df3ab0e3e013?source=rss-3a9533f001c5------2)
 - [CrewAI Expert Agent in Cursor with CodeGPT](https://medium.com/@dan.avila7/crewai-expert-agent-in-cursor-with-codegpt-5401ac4a5676?source=rss-3a9533f001c5------2)
 - [Supercharge Your Vue.js 3 Development with CodeGPT’s Expert Agent in VSCode](https://medium.com/@dan.avila7/supercharge-your-vue-js-3-development-with-codegpts-expert-agent-in-vscode-1fc2dd6d868e?source=rss-3a9533f001c5------2)
-- [AI Models Now Execute Code Directly in VSCode with CodeGPT’s Code Interpreter](https://medium.com/@dan.avila7/ai-models-now-execute-code-directly-in-vscode-with-codegpts-code-interpreter-b8c824e3f919?source=rss-3a9533f001c5------2)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
