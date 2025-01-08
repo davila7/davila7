@@ -80,7 +80,7 @@
     </p>
 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic SaaS: Are AI Agents Killing Traditional SaaS?](https://medium.com/@dan.avila7/agentic-saas-are-ai-agents-killing-traditional-saas-4bd2417ecf6b?source=rss-3a9533f001c5------2)
+- [Agentic SaaS: Are AI Agents Killing Traditional SaaS?](https://medium.com/latinxinai/agentic-saas-are-ai-agents-killing-traditional-saas-4bd2417ecf6b?source=rss-3a9533f001c5------2)
 - [Automating WhatsApp Responses with CodeGPT and WhatsApp Web.js](https://medium.com/@dan.avila7/automating-whatsapp-responses-with-codegpt-and-whatsapp-web-js-4abcabbaf4d6?source=rss-3a9533f001c5------2)
 - [Secure, Private, and Local Code Development with Qwen2.5-Coder](https://medium.com/@dan.avila7/secure-private-and-local-code-development-with-qwen2-5-coder-b6c891c1fca6?source=rss-3a9533f001c5------2)
 - [Boost Your AWS Lambda Development with AI Expert Assistant in VSCode](https://medium.com/@dan.avila7/boost-your-aws-lambda-development-with-codegpts-ai-expert-assistant-in-vscode-df3ab0e3e013?source=rss-3a9533f001c5------2)
