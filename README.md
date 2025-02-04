@@ -80,11 +80,11 @@
     </p>
 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step: Running DeepSeek locally in VSCode for a Powerful, Private AI Copilot](https://medium.com/@dan.avila7/step-by-step-running-deepseek-locally-in-vscode-for-a-powerful-private-ai-copilot-4edc2108b83e?source=rss-3a9533f001c5------2)
-- [Observability for LLMs with AWS Bedrock and CloudWatch](https://medium.com/@dan.avila7/observability-for-llms-with-aws-bedrock-and-cloudwatch-385ad0150a01?source=rss-3a9533f001c5------2)
-- [Agentic SaaS: Are AI Agents Killing Traditional SaaS?](https://medium.com/latinxinai/agentic-saas-are-ai-agents-killing-traditional-saas-4bd2417ecf6b?source=rss-3a9533f001c5------2)
-- [Automating WhatsApp Responses with CodeGPT and WhatsApp Web.js](https://medium.com/@dan.avila7/automating-whatsapp-responses-with-codegpt-and-whatsapp-web-js-4abcabbaf4d6?source=rss-3a9533f001c5------2)
-- [Secure, Private, and Local Code Development with Qwen2.5-Coder](https://medium.com/@dan.avila7/secure-private-and-local-code-development-with-qwen2-5-coder-b6c891c1fca6?source=rss-3a9533f001c5------2)
+- [Llama 3.2 Running Locally in VSCode: How to Set It Up with CodeGPT and Ollama](https://dev.to/dani_avila7/llama-32-running-locally-in-vscode-how-to-set-it-up-with-codegpt-and-ollama-h1n)
+- [Lightning-Fast Code Assistant with Groq in VSCode](https://dev.to/dani_avila7/lightning-fast-code-assistant-with-groq-in-vscode-4eme)
+- [YoutubeGPT, start a chat with a video 🤖](https://danielsan.hashnode.dev/youtubegpt-start-a-chat-with-a-video)
+- [YoutubeGPT, start a chat with a video 🤖](https://dev.to/dani_avila7/youtbe-gpt-start-a-chat-with-a-video-3ona)
+- [Compare human and GPT-3 responses on StackOverflow inside VSCode](https://danielsan.hashnode.dev/compare-human-and-gpt-3-responses-on-stackoverflow-inside-vscode)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
