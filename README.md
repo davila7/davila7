@@ -8,12 +8,6 @@
 <a href="https://linkedin.com/in/daniel-avila-arias" target="_blank">
     <img align="center" alt="daniel-avila-arias" height="30"  width="40" src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="https://fb.com/dani.avila.arias" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dani.avila.arias" height="30" width="40" />
-</a>
-<a href="https://instagram.com/daniavila_26" target="_blank">
-    <img align="center" alt="daniel-avila-arias" height="30" width="40" src="https://skillicons.dev/icons?i=instagram" />
-</a>
 <a href="https://www.youtube.com/@daniiielsan?sub_confirmation=1" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="daniiielsan" height="30" width="40" />
   </a>
