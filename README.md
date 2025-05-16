@@ -1,21 +1,8 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Daniel%20San%20👨🏽‍💻%20|%20Serverless%20|%20Code%20GPT%20❤️&width=800&height=110)](https://github.com/Akshay090/svg-banners)
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/dani_avila7" target="_blank">
-    <img align="center" alt="dani_avila7" height="30" width="40" src="https://skillicons.dev/icons?i=twitter" />
-</a>
-<a href="https://linkedin.com/in/daniel-avila-arias" target="_blank">
-    <img align="center" alt="daniel-avila-arias" height="30"  width="40" src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="https://www.youtube.com/@daniiielsan?sub_confirmation=1" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="daniiielsan" height="30" width="40" />
-  </a>
-</p>
-
 ### Hi there, I'm Daniel San 👋
 
-👨🏽‍💻 I am a developer with more than 15 years of experience. I love building apps with artificial intelligence and exploring new technologies.
+👨🏽‍💻 I am a Chilean 🇨🇱 developer with more than 15 years of experience. I love building apps with artificial intelligence and exploring new technologies.
 
 <br>
 <p align="center">
