@@ -17,23 +17,7 @@
 
 👨🏽‍💻 I am a developer with more than 15 years of experience. I love building apps with artificial intelligence and exploring new technologies.
 
-🔭 I’m currently working on [Code GPT](https://codegpt.co), a VSCode extension that brings AI to your code editor.
-
-🌱 I’m currently learning about natural language processing, LLMs and computer vision.
-
-💬 Ask me about serverless, AI, or anything tech-related!
-
-📫 How to reach me: [Twitter](https://twitter.com/dani_avila7) or [LinkedIn](https://www.linkedin.com/in/daniel-avila-arias/)
-
 <br>
-<h3 aling="center">If you want to create apps with artificial intelligence, start by installing <a href="https://codegpt.co">Code GPT</a>👇</h3>
-<a href="https://codegpt.co">
-    <img width="766" alt="captura" src="https://github.com/davila7/davila7/assets/6216945/96db4868-8707-4f8d-89ec-a4f45bf7059f">
-</a>
-<br>
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
   <a href="https://www.youtube.com/@daniiielsan?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCNabExUbWCar1WvCGWaPNdQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
@@ -61,17 +45,6 @@
 
 <details open> 
     <summary><h2>📝 Blog post</h2></summary>
-    <p align="center">
-        <a href="https://medium.com/@dan.avila7">    
-            <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-        </a>
-        <a href="https://dev.to/dani_avila7">
-            <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">
-        </a>
-        <a href="https://hashnode.com/@danielsan">
-            <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
-        </a>
-    </p>
 
 <!-- BLOG-POST-LIST:START -->
 - [Step-by-Step: Build a Custom Chatbot with your data using DeepSeek R1 &lpar;No Code&rpar;](https://medium.com/@dan.avila7/step-by-step-build-a-custom-chatbot-with-your-data-using-deepseek-r1-no-code-d9348551c52c?source=rss-3a9533f001c5------2)
@@ -82,58 +55,6 @@
 <!-- BLOG-POST-LIST:END -->
 </details>
 
-<details open> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-
-  <h3>👨‍💻 Programming and Markup Languages</h3>
-
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,cs,py,php,html,css,java,r,solidity,ts" />
-    </a>
-  </p>
-
-  <h3> Version Control</h3>
-  <p align="center">
-    <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" height="30" width="30">
-    <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" height="30" width="30">
-    <img src="https://user-images.githubusercontent.com/25181517/192108375-268c35e6-ab26-44b2-88bf-e3121a4e5083.png" height="30" width="30">
-  </p>
-
-  <h3>🧰 Frameworks and Libraries</h3>
-  
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,laravel,symfony,angular,nuxtjs,vue,express,bootstrap,jquery,django,dotnet,jest" />
-    </a>
-  </p>
-  
-  <h3>☁️ Cloud Hosting</h3>
-  
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,firebase,heroku,vercel,netlify" />
-    </a>
-  </p>
-  
-  <h3>🗄️ Databases </h3>
-  
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mysql,dynamodb,mongodb,sqlite,postgres" />
-    </a>
-  </p>
-  
-  <h3>💻 Software and Tools</h3>
-  
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,androidstudio,vim,visualstudio,bash" />
-    </a>
-  </p>
-    
-</details>
   
 <details open> 
   <summary><h2>🔥 GitHub Profile Stats</h2></summary>
@@ -144,7 +65,6 @@
   <br/>
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-  <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="davila7's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=davila7&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="davila7's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=davila7&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   
 </details>
