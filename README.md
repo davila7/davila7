@@ -35,7 +35,6 @@
     <summary><h2>📝 Blog post</h2></summary>
 -->
 <!-- BLOG-POST-LIST:START -->
-<!--
 - [Step-by-Step: Build a Custom Chatbot with your data using DeepSeek R1 &lpar;No Code&rpar;](https://medium.com/@dan.avila7/step-by-step-build-a-custom-chatbot-with-your-data-using-deepseek-r1-no-code-d9348551c52c?source=rss-3a9533f001c5------2)
 - [Building a Brilliant AI Copilot: Using Knowledge Graphs as a Codebase](https://medium.com/@dan.avila7/building-a-brilliant-ai-copilot-using-knowledge-graphs-as-a-codebase-7b8c701b6763?source=rss-3a9533f001c5------2)
 - [Step-by-Step: Running DeepSeek locally in VSCode for a Powerful, Private AI Copilot](https://medium.com/@dan.avila7/step-by-step-running-deepseek-locally-in-vscode-for-a-powerful-private-ai-copilot-4edc2108b83e?source=rss-3a9533f001c5------2)
