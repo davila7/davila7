@@ -15,34 +15,39 @@
   <a href="https://github.com/davila7?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/davila7?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
-
+<!--
 <details open> 
-    <summary><h3>📺 Latest YouTube Videos</h3></summary>
+    <summary><h3>📺 Latest YouTube Videos</h3></summary> -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<!--
 [![Corre modelos de IA de forma local en VSCode con Ollama y CodeGPT #codegpt #vscode #ollama #deepseek](https://ytcards.demolab.com/?id=Bly6Xen49F0&title=Corre+modelos+de+IA+de+forma+local+en+VSCode+con+Ollama+y+CodeGPT+%23codegpt+%23vscode+%23ollama+%23deepseek&lang=en&timestamp=1742228362&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Corre modelos de IA de forma local en VSCode con Ollama y CodeGPT #codegpt #vscode #ollama #deepseek")](https://www.youtube.com/watch?v=Bly6Xen49F0)
 [![Descubre Open-R un Modelo completamente Open Source y GRATUITO #deepseek #python #chatgpt #coding](https://ytcards.demolab.com/?id=4wKtOtVrz8M&title=Descubre+Open-R+un+Modelo+completamente+Open+Source+y+GRATUITO+%23deepseek+%23python+%23chatgpt+%23coding&lang=en&timestamp=1742154036&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Descubre Open-R un Modelo completamente Open Source y GRATUITO #deepseek #python #chatgpt #coding")](https://www.youtube.com/watch?v=4wKtOtVrz8M)
 [![¿Los modelos de lenguaje (LLM) Open Source son realmente GRATIS? 🤔](https://ytcards.demolab.com/?id=fCgcTQyQol0&title=%C2%BFLos+modelos+de+lenguaje+%28LLM%29+Open+Source+son+realmente+GRATIS%3F+%F0%9F%A4%94&lang=en&timestamp=1741804065&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "¿Los modelos de lenguaje (LLM) Open Source son realmente GRATIS? 🤔")](https://www.youtube.com/watch?v=fCgcTQyQol0)
 [![Maneja el contexto que envías a la IA con CodeGPT en VSCode](https://ytcards.demolab.com/?id=M6SB-JUd8PQ&title=Maneja+el+contexto+que+env%C3%ADas+a+la+IA+con+CodeGPT+en+VSCode&lang=en&timestamp=1740776039&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Maneja el contexto que envías a la IA con CodeGPT en VSCode")](https://www.youtube.com/watch?v=M6SB-JUd8PQ)
 [![Activa el modo oscuro con solo dos líneas de código en #css 😎 #darkmode #js #html](https://ytcards.demolab.com/?id=Io-Via1C5kU&title=Activa+el+modo+oscuro+con+solo+dos+l%C3%ADneas+de+c%C3%B3digo+en+%23css+%F0%9F%98%8E+%23darkmode+%23js+%23html&lang=en&timestamp=1736207622&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Activa el modo oscuro con solo dos líneas de código en #css 😎 #darkmode #js #html")](https://www.youtube.com/watch?v=Io-Via1C5kU)
 [![Genera tus Test Unitarios con IA en menos de un segundo 😱](https://ytcards.demolab.com/?id=MiExxO0kHA8&title=Genera+tus+Test+Unitarios+con+IA+en+menos+de+un+segundo+%F0%9F%98%B1&lang=en&timestamp=1735822833&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Genera tus Test Unitarios con IA en menos de un segundo 😱")](https://www.youtube.com/watch?v=MiExxO0kHA8)
+-->
 <!-- END YOUTUBE-CARDS -->
-
+<!--
 </details>
-
+ -->
+ <!--
 <details open> 
     <summary><h2>📝 Blog post</h2></summary>
-
+-->
 <!-- BLOG-POST-LIST:START -->
+<!--
 - [Step-by-Step: Build a Custom Chatbot with your data using DeepSeek R1 &lpar;No Code&rpar;](https://medium.com/@dan.avila7/step-by-step-build-a-custom-chatbot-with-your-data-using-deepseek-r1-no-code-d9348551c52c?source=rss-3a9533f001c5------2)
 - [Building a Brilliant AI Copilot: Using Knowledge Graphs as a Codebase](https://medium.com/@dan.avila7/building-a-brilliant-ai-copilot-using-knowledge-graphs-as-a-codebase-7b8c701b6763?source=rss-3a9533f001c5------2)
 - [Step-by-Step: Running DeepSeek locally in VSCode for a Powerful, Private AI Copilot](https://medium.com/@dan.avila7/step-by-step-running-deepseek-locally-in-vscode-for-a-powerful-private-ai-copilot-4edc2108b83e?source=rss-3a9533f001c5------2)
 - [Observability for LLMs with AWS Bedrock and CloudWatch](https://medium.com/@dan.avila7/observability-for-llms-with-aws-bedrock-and-cloudwatch-385ad0150a01?source=rss-3a9533f001c5------2)
 - [Agentic SaaS: Are AI Agents Killing Traditional SaaS?](https://medium.com/latinxinai/agentic-saas-are-ai-agents-killing-traditional-saas-4bd2417ecf6b?source=rss-3a9533f001c5------2)
 <!-- BLOG-POST-LIST:END -->
+<!--
 </details>
+-->
 
-  
 <details open> 
   <summary><h2>🔥 GitHub Profile Stats</h2></summary>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
