@@ -35,11 +35,11 @@
     <summary><h2>📝 Blog post</h2></summary>
 -->
 <!-- BLOG-POST-LIST:START -->
-- [Llama 3.2 Running Locally in VSCode: How to Set It Up with CodeGPT and Ollama](https://dev.to/dani_avila7/llama-32-running-locally-in-vscode-how-to-set-it-up-with-codegpt-and-ollama-h1n)
-- [Lightning-Fast Code Assistant with Groq in VSCode](https://dev.to/dani_avila7/lightning-fast-code-assistant-with-groq-in-vscode-4eme)
-- [YoutubeGPT, start a chat with a video 🤖](https://dev.to/dani_avila7/youtbe-gpt-start-a-chat-with-a-video-3ona)
-- [Compare human and AI responses on Stackoverflow using CodeGPT](https://dev.to/dani_avila7/compare-human-and-ai-responses-on-stackoverflow-using-codegpt-i1k)
-- [GPT-3 inside VSCode with official OpenAI API](https://dev.to/dani_avila7/chatgpt-inside-vscode-with-official-openai-api-10n8)
+- [Claude Code: From Zero to Hero](https://medium.com/@dan.avila7/claude-code-from-zero-to-hero-bebe2436ac32?source=rss-3a9533f001c5------2)
+- [CodeGPT Profile Modes Explained: Chat, Search, and Agent Mode Tutorial](https://medium.com/@dan.avila7/codegpt-profile-modes-explained-chat-search-and-agent-mode-tutorial-8fdfcd7951ac?source=rss-3a9533f001c5------2)
+- [Step-by-Step: Build a Custom Chatbot with your data using DeepSeek R1 &lpar;No Code&rpar;](https://medium.com/@dan.avila7/step-by-step-build-a-custom-chatbot-with-your-data-using-deepseek-r1-no-code-d9348551c52c?source=rss-3a9533f001c5------2)
+- [Building a Brilliant AI Copilot: Using Knowledge Graphs as a Codebase](https://medium.com/@dan.avila7/building-a-brilliant-ai-copilot-using-knowledge-graphs-as-a-codebase-7b8c701b6763?source=rss-3a9533f001c5------2)
+- [Step-by-Step: Running DeepSeek locally in VSCode for a Powerful, Private AI Copilot](https://medium.com/@dan.avila7/step-by-step-running-deepseek-locally-in-vscode-for-a-powerful-private-ai-copilot-4edc2108b83e?source=rss-3a9533f001c5------2)
 <!-- BLOG-POST-LIST:END -->
 <!--
 </details>
