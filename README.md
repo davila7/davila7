@@ -35,11 +35,11 @@
     <summary><h2>📝 Blog post</h2></summary>
 -->
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code: From Zero to Hero](https://medium.com/@dan.avila7/claude-code-from-zero-to-hero-bebe2436ac32?source=rss-3a9533f001c5------2)
 - [CodeGPT Profile Modes Explained: Chat, Search, and Agent Mode Tutorial](https://medium.com/@dan.avila7/codegpt-profile-modes-explained-chat-search-and-agent-mode-tutorial-8fdfcd7951ac?source=rss-3a9533f001c5------2)
 - [Step-by-Step: Build a Custom Chatbot with your data using DeepSeek R1 &lpar;No Code&rpar;](https://medium.com/@dan.avila7/step-by-step-build-a-custom-chatbot-with-your-data-using-deepseek-r1-no-code-d9348551c52c?source=rss-3a9533f001c5------2)
 - [Building a Brilliant AI Copilot: Using Knowledge Graphs as a Codebase](https://medium.com/@dan.avila7/building-a-brilliant-ai-copilot-using-knowledge-graphs-as-a-codebase-7b8c701b6763?source=rss-3a9533f001c5------2)
 - [Step-by-Step: Running DeepSeek locally in VSCode for a Powerful, Private AI Copilot](https://medium.com/@dan.avila7/step-by-step-running-deepseek-locally-in-vscode-for-a-powerful-private-ai-copilot-4edc2108b83e?source=rss-3a9533f001c5------2)
-- [Observability for LLMs with AWS Bedrock and CloudWatch](https://medium.com/@dan.avila7/observability-for-llms-with-aws-bedrock-and-cloudwatch-385ad0150a01?source=rss-3a9533f001c5------2)
 <!-- BLOG-POST-LIST:END -->
 <!--
 </details>
