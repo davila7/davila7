@@ -35,11 +35,11 @@
     <summary><h2>📝 Blog post</h2></summary>
 -->
 <!-- BLOG-POST-LIST:START -->
+- [What to do when your PR gets behind: A Real-World Git Workflow](https://medium.com/@dan.avila7/what-to-do-when-your-pr-gets-behind-a-real-world-git-workflow-70c0f6a0faa2?source=rss-3a9533f001c5------2)
 - [How to Boost Cursor’s Understanding of Your Entire Codebase](https://medium.com/@dan.avila7/how-to-boost-cursors-understanding-of-your-entire-codebase-ed981e89d64c?source=rss-3a9533f001c5------2)
 - [Why Model Context Protocol uses JSON-RPC](https://medium.com/@dan.avila7/why-model-context-protocol-uses-json-rpc-64d466112338?source=rss-3a9533f001c5------2)
 - [Claude Code: From Zero to Hero](https://medium.com/@dan.avila7/claude-code-from-zero-to-hero-bebe2436ac32?source=rss-3a9533f001c5------2)
 - [CodeGPT Profile Modes Explained: Chat, Search, and Agent Mode Tutorial](https://medium.com/@dan.avila7/codegpt-profile-modes-explained-chat-search-and-agent-mode-tutorial-8fdfcd7951ac?source=rss-3a9533f001c5------2)
-- [Step-by-Step: Build a Custom Chatbot with your data using DeepSeek R1 &lpar;No Code&rpar;](https://medium.com/@dan.avila7/step-by-step-build-a-custom-chatbot-with-your-data-using-deepseek-r1-no-code-d9348551c52c?source=rss-3a9533f001c5------2)
 <!-- BLOG-POST-LIST:END -->
 <!--
 </details>
