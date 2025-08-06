@@ -35,11 +35,11 @@
     <summary><h2>📝 Blog post</h2></summary>
 -->
 <!-- BLOG-POST-LIST:START -->
+- [Step-by-Step Guide: Prepare Your Codebase for Claude Code](https://medium.com/@dan.avila7/step-by-step-guide-prepare-your-codebase-for-claude-code-3e14262566e9?source=rss-3a9533f001c5------2)
 - [Monitor your Claude Code usage: Local Analytics Dashboard](https://medium.com/@dan.avila7/monitor-your-claude-code-usage-local-analytics-dashboard-2dee809d0f90?source=rss-3a9533f001c5------2)
 - [What to do when your PR gets behind: A Real-World Git Workflow](https://medium.com/@dan.avila7/what-to-do-when-your-pr-gets-behind-a-real-world-git-workflow-70c0f6a0faa2?source=rss-3a9533f001c5------2)
 - [How to Boost Cursor’s Understanding of Your Entire Codebase](https://medium.com/@dan.avila7/how-to-boost-cursors-understanding-of-your-entire-codebase-ed981e89d64c?source=rss-3a9533f001c5------2)
 - [Why Model Context Protocol uses JSON-RPC](https://medium.com/@dan.avila7/why-model-context-protocol-uses-json-rpc-64d466112338?source=rss-3a9533f001c5------2)
-- [Claude Code: From Zero to Hero](https://medium.com/@dan.avila7/claude-code-from-zero-to-hero-bebe2436ac32?source=rss-3a9533f001c5------2)
 <!-- BLOG-POST-LIST:END -->
 <!--
 </details>
