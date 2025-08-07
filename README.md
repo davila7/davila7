@@ -35,11 +35,11 @@
     <summary><h2>📝 Blog post</h2></summary>
 -->
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step Guide: Prepare Your Codebase for Claude Code](https://medium.com/@dan.avila7/step-by-step-guide-prepare-your-codebase-for-claude-code-3e14262566e9?source=rss-3a9533f001c5------2)
-- [Monitor your Claude Code usage: Local Analytics Dashboard](https://medium.com/@dan.avila7/monitor-your-claude-code-usage-local-analytics-dashboard-2dee809d0f90?source=rss-3a9533f001c5------2)
-- [What to do when your PR gets behind: A Real-World Git Workflow](https://medium.com/@dan.avila7/what-to-do-when-your-pr-gets-behind-a-real-world-git-workflow-70c0f6a0faa2?source=rss-3a9533f001c5------2)
-- [How to Boost Cursor’s Understanding of Your Entire Codebase](https://medium.com/@dan.avila7/how-to-boost-cursors-understanding-of-your-entire-codebase-ed981e89d64c?source=rss-3a9533f001c5------2)
-- [Why Model Context Protocol uses JSON-RPC](https://medium.com/@dan.avila7/why-model-context-protocol-uses-json-rpc-64d466112338?source=rss-3a9533f001c5------2)
+- [Llama 3.2 Running Locally in VSCode: How to Set It Up with CodeGPT and Ollama](https://dev.to/dani_avila7/llama-32-running-locally-in-vscode-how-to-set-it-up-with-codegpt-and-ollama-h1n)
+- [Lightning-Fast Code Assistant with Groq in VSCode](https://dev.to/dani_avila7/lightning-fast-code-assistant-with-groq-in-vscode-4eme)
+- [YoutubeGPT, start a chat with a video 🤖](https://dev.to/dani_avila7/youtbe-gpt-start-a-chat-with-a-video-3ona)
+- [Compare human and AI responses on Stackoverflow using CodeGPT](https://dev.to/dani_avila7/compare-human-and-ai-responses-on-stackoverflow-using-codegpt-i1k)
+- [GPT-3 inside VSCode with official OpenAI API](https://dev.to/dani_avila7/chatgpt-inside-vscode-with-official-openai-api-10n8)
 <!-- BLOG-POST-LIST:END -->
 <!--
 </details>
