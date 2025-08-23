@@ -35,11 +35,11 @@
     <summary><h2>📝 Blog post</h2></summary>
 -->
 <!-- BLOG-POST-LIST:START -->
-- [Your server isn’t overloaded, your application is waiting](https://medium.com/@dan.avila7/your-server-isnt-overloaded-your-application-is-waiting-1383f00865d5?source=rss-3a9533f001c5------2)
-- [Step-by-Step Guide: Connect Telegram with Claude Code Hooks](https://medium.com/@dan.avila7/step-by-step-guide-connect-telegram-with-claude-code-hooks-1686fadcee65?source=rss-3a9533f001c5------2)
-- [Vercel statusline Tutorial for Claude Code](https://medium.com/@dan.avila7/vercel-statusline-tutorial-for-claude-code-14755f113d76?source=rss-3a9533f001c5------2)
-- [Step-by-Step Guide: Prepare Your Codebase for Claude Code](https://medium.com/@dan.avila7/step-by-step-guide-prepare-your-codebase-for-claude-code-3e14262566e9?source=rss-3a9533f001c5------2)
-- [Monitor your Claude Code usage: Local Analytics Dashboard](https://medium.com/@dan.avila7/monitor-your-claude-code-usage-local-analytics-dashboard-2dee809d0f90?source=rss-3a9533f001c5------2)
+- [Llama 3.2 Running Locally in VSCode: How to Set It Up with CodeGPT and Ollama](https://dev.to/dani_avila7/llama-32-running-locally-in-vscode-how-to-set-it-up-with-codegpt-and-ollama-h1n)
+- [Lightning-Fast Code Assistant with Groq in VSCode](https://dev.to/dani_avila7/lightning-fast-code-assistant-with-groq-in-vscode-4eme)
+- [YoutubeGPT, start a chat with a video 🤖](https://dev.to/dani_avila7/youtbe-gpt-start-a-chat-with-a-video-3ona)
+- [Compare human and AI responses on Stackoverflow using CodeGPT](https://dev.to/dani_avila7/compare-human-and-ai-responses-on-stackoverflow-using-codegpt-i1k)
+- [GPT-3 inside VSCode with official OpenAI API](https://dev.to/dani_avila7/chatgpt-inside-vscode-with-official-openai-api-10n8)
 <!-- BLOG-POST-LIST:END -->
 <!--
 </details>
