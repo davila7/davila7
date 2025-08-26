@@ -35,11 +35,11 @@
     <summary><h2>📝 Blog post</h2></summary>
 -->
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code: From Zero to Hero](https://dev.to/dani_avila7/claude-code-from-zero-to-hero-4kcm)
 - [Your server isn’t overloaded, your application is waiting](https://medium.com/@dan.avila7/your-server-isnt-overloaded-your-application-is-waiting-1383f00865d5?source=rss-3a9533f001c5------2)
 - [Step-by-Step Guide: Connect Telegram with Claude Code Hooks](https://medium.com/@dan.avila7/step-by-step-guide-connect-telegram-with-claude-code-hooks-1686fadcee65?source=rss-3a9533f001c5------2)
 - [Vercel statusline Tutorial for Claude Code](https://medium.com/@dan.avila7/vercel-statusline-tutorial-for-claude-code-14755f113d76?source=rss-3a9533f001c5------2)
 - [Step-by-Step Guide: Prepare Your Codebase for Claude Code](https://medium.com/@dan.avila7/step-by-step-guide-prepare-your-codebase-for-claude-code-3e14262566e9?source=rss-3a9533f001c5------2)
-- [Monitor your Claude Code usage: Local Analytics Dashboard](https://medium.com/@dan.avila7/monitor-your-claude-code-usage-local-analytics-dashboard-2dee809d0f90?source=rss-3a9533f001c5------2)
 <!-- BLOG-POST-LIST:END -->
 <!--
 </details>
