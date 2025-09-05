@@ -15,6 +15,21 @@
   <a href="https://github.com/davila7?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/davila7?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
+<!--
+<details open> 
+    <summary><h3>📺 Latest YouTube Videos</h3></summary> -->
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Respuesta de AI en tiempo real con Streaming 🧐 #programming](https://ytcards.demolab.com/?id=Tsp13K2Yq-Q&title=Respuesta+de+AI+en+tiempo+real+con+Streaming+%F0%9F%A7%90+%23programming&lang=en&timestamp=1756407371&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Respuesta de AI en tiempo real con Streaming 🧐 #programming")](https://www.youtube.com/shorts/Tsp13K2Yq-Q)
+[![Implementando chat con AI en VSCode!](https://ytcards.demolab.com/?id=BVNfUP_Uek4&title=Implementando+chat+con+AI+en+VSCode%21&lang=en&timestamp=1756208775&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Implementando chat con AI en VSCode!")](https://www.youtube.com/shorts/BVNfUP_Uek4)
+[![¡Alerta! Supabase Expuesto: API Key y URL en Peligro](https://ytcards.demolab.com/?id=L8s03Rw0iKE&title=%C2%A1Alerta%21+Supabase+Expuesto%3A+API+Key+y+URL+en+Peligro&lang=en&timestamp=1756165139&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "¡Alerta! Supabase Expuesto: API Key y URL en Peligro")](https://www.youtube.com/shorts/L8s03Rw0iKE)
+[![Stream vs No Stream al trabajar con modelos de #Al. tutorial completo en YouTube #programacion](https://ytcards.demolab.com/?id=gGMixg8Bw-Y&title=Stream+vs+No+Stream+al+trabajar+con+modelos+de+%23Al.+tutorial+completo+en+YouTube+%23programacion&lang=en&timestamp=1756058686&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Stream vs No Stream al trabajar con modelos de #Al. tutorial completo en YouTube #programacion")](https://www.youtube.com/shorts/gGMixg8Bw-Y)
+[![Create Global Agents](https://ytcards.demolab.com/?id=eYus7al9QBE&title=Create+Global+Agents&lang=en&timestamp=1755997581&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Create Global Agents")](https://www.youtube.com/shorts/eYus7al9QBE)
+[![Vibe Coding... seguro?  Claves para desarrollar sin riesgos](https://ytcards.demolab.com/?id=t1eVkGKVSyY&title=Vibe+Coding...+seguro%3F++Claves+para+desarrollar+sin+riesgos&lang=en&timestamp=1755968406&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Vibe Coding... seguro?  Claves para desarrollar sin riesgos")](https://www.youtube.com/watch?v=t1eVkGKVSyY)
+<!-- END YOUTUBE-CARDS -->
+<!--
+</details>
+ -->
  <!--
 <details open> 
     <summary><h2>📝 Blog post</h2></summary>
