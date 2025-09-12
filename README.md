@@ -35,11 +35,11 @@
     <summary><h2>📝 Blog post</h2></summary>
 -->
 <!-- BLOG-POST-LIST:START -->
+- [I read Anthropic’s complete Tool Creation Guide so you don’t have to. Here’s What Actually Works!](https://medium.com/@dan.avila7/i-read-anthropics-complete-tool-creation-guide-so-you-don-t-have-to-here-s-what-actually-works-dc9377f20913?source=rss-3a9533f001c5------2)
 - [Free AI Models with GitHub Models API](https://medium.com/@dan.avila7/free-ai-models-with-github-models-api-0464c4ae7f16?source=rss-3a9533f001c5------2)
 - [Complete Guide to Claude Code Templates](https://dev.to/dani_avila7/complete-guide-to-claude-code-templates-1pnp)
 - [Complete Guide to Claude Code Templates](https://medium.com/latinxinai/complete-guide-to-claude-code-templates-4e53d6688b34?source=rss-3a9533f001c5------2)
 - [Claude Code: From Zero to Hero](https://dev.to/dani_avila7/claude-code-from-zero-to-hero-4kcm)
-- [Your server isn’t overloaded, your application is waiting](https://medium.com/@dan.avila7/your-server-isnt-overloaded-your-application-is-waiting-1383f00865d5?source=rss-3a9533f001c5------2)
 <!-- BLOG-POST-LIST:END -->
 <!--
 </details>
