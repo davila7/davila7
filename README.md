@@ -39,7 +39,7 @@
 - [Fixed Claude Code’s “2024 Tunnel Vision” with a Simple Hook](https://medium.com/@dan.avila7/fixed-claude-codes-2024-tunnel-vision-with-a-simple-hook-cb32cfaf9b27?source=rss-3a9533f001c5------2)
 - [I read Anthropic’s complete Tool Creation Guide so you don’t have to. Here’s What Actually Works!](https://medium.com/@dan.avila7/i-read-anthropics-complete-tool-creation-guide-so-you-don-t-have-to-here-s-what-actually-works-dc9377f20913?source=rss-3a9533f001c5------2)
 - [Free AI Models with GitHub Models API](https://medium.com/@dan.avila7/free-ai-models-with-github-models-api-0464c4ae7f16?source=rss-3a9533f001c5------2)
-- [Complete Guide to Claude Code Templates](https://dev.to/dani_avila7/complete-guide-to-claude-code-templates-1pnp)
+- [Complete Guide to Claude Code Templates](https://medium.com/latinxinai/complete-guide-to-claude-code-templates-4e53d6688b34?source=rss-3a9533f001c5------2)
 <!-- BLOG-POST-LIST:END -->
 <!--
 </details>
