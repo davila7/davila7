@@ -35,11 +35,11 @@
     <summary><h2>📝 Blog post</h2></summary>
 -->
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code + Supabase Integration: Complete Guide with Agents, Commands and MCP](https://medium.com/@dan.avila7/claude-code-supabase-integration-complete-guide-with-agents-commands-and-mcp-427613d9051e?source=rss-3a9533f001c5------2)
 - [Complete Guide to setting up Git Flow in Claude Code](https://medium.com/@dan.avila7/complete-guide-to-setting-up-git-flow-in-claude-code-616477941f78?source=rss-3a9533f001c5------2)
 - [Step-by-step guide to connect Claude Code with Google Cloud Vertex AI](https://medium.com/@dan.avila7/step-by-step-guide-to-connect-claude-code-with-google-cloud-vertex-ai-17e7916e711e?source=rss-3a9533f001c5------2)
 - [Automated Documentation with Claude Code: Building Self-Updating Docs Using Docusaurus Agent](https://medium.com/@dan.avila7/automated-documentation-with-claude-code-building-self-updating-docs-using-docusaurus-agent-2c85d3ec0e19?source=rss-3a9533f001c5------2)
 - [Fixed Claude Code’s “2024 Tunnel Vision” with a Simple Hook](https://medium.com/@dan.avila7/fixed-claude-codes-2024-tunnel-vision-with-a-simple-hook-cb32cfaf9b27?source=rss-3a9533f001c5------2)
-- [I read Anthropic’s complete Tool Creation Guide so you don’t have to. Here’s What Actually Works!](https://medium.com/@dan.avila7/i-read-anthropics-complete-tool-creation-guide-so-you-don-t-have-to-here-s-what-actually-works-dc9377f20913?source=rss-3a9533f001c5------2)
 <!-- BLOG-POST-LIST:END -->
 <!--
 </details>
