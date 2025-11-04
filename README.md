@@ -35,11 +35,11 @@
     <summary><h2>📝 Blog post</h2></summary>
 -->
 <!-- BLOG-POST-LIST:START -->
+- [Running Claude Code Agents in Docker Containers for Complete Isolation](https://medium.com/@dan.avila7/running-claude-code-agents-in-docker-containers-for-complete-isolation-63036a2ef6f4?source=rss-3a9533f001c5------2)
 - [Claude Code Learning Path: a practical guide to getting started](https://medium.com/@dan.avila7/claude-code-learning-path-a-practical-guide-to-getting-started-fcc601550476?source=rss-3a9533f001c5------2)
 - [Claude Code Agents with Cloudflare Sandbox for isolated environments](https://medium.com/@dan.avila7/claude-code-agents-with-cloudflare-sandbox-for-isolated-environments-f89b2668a06d?source=rss-3a9533f001c5------2)
 - [Claude Code + Supabase Integration: Complete Guide with Agents, Commands and MCP](https://medium.com/@dan.avila7/claude-code-supabase-integration-complete-guide-with-agents-commands-and-mcp-427613d9051e?source=rss-3a9533f001c5------2)
 - [Complete Guide to setting up Git Flow in Claude Code](https://medium.com/@dan.avila7/complete-guide-to-setting-up-git-flow-in-claude-code-616477941f78?source=rss-3a9533f001c5------2)
-- [Step-by-step guide to connect Claude Code with Google Cloud Vertex AI](https://medium.com/@dan.avila7/step-by-step-guide-to-connect-claude-code-with-google-cloud-vertex-ai-17e7916e711e?source=rss-3a9533f001c5------2)
 <!-- BLOG-POST-LIST:END -->
 <!--
 </details>
