@@ -35,11 +35,11 @@
     <summary><h2>📝 Blog post</h2></summary>
 -->
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Environment Variables: A Complete Reference Guide](https://medium.com/@dan.avila7/claude-code-environment-variables-a-complete-reference-guide-41229ef18120?source=rss-3a9533f001c5------2)
-- [Running Claude Code Agents in Docker Containers for Complete Isolation](https://medium.com/@dan.avila7/running-claude-code-agents-in-docker-containers-for-complete-isolation-63036a2ef6f4?source=rss-3a9533f001c5------2)
-- [Claude Code Learning Path: a practical guide to getting started](https://medium.com/@dan.avila7/claude-code-learning-path-a-practical-guide-to-getting-started-fcc601550476?source=rss-3a9533f001c5------2)
-- [Claude Code Agents with Cloudflare Sandbox for isolated environments](https://medium.com/@dan.avila7/claude-code-agents-with-cloudflare-sandbox-for-isolated-environments-f89b2668a06d?source=rss-3a9533f001c5------2)
-- [Claude Code + Supabase Integration: Complete Guide with Agents, Commands and MCP](https://medium.com/@dan.avila7/claude-code-supabase-integration-complete-guide-with-agents-commands-and-mcp-427613d9051e?source=rss-3a9533f001c5------2)
+- [Complete Guide to Claude Code Templates](https://dev.to/dani_avila7/complete-guide-to-claude-code-templates-1pnp)
+- [Claude Code: From Zero to Hero](https://dev.to/dani_avila7/claude-code-from-zero-to-hero-4kcm)
+- [Llama 3.2 Running Locally in VSCode: How to Set It Up with CodeGPT and Ollama](https://dev.to/dani_avila7/llama-32-running-locally-in-vscode-how-to-set-it-up-with-codegpt-and-ollama-h1n)
+- [Lightning-Fast Code Assistant with Groq in VSCode](https://dev.to/dani_avila7/lightning-fast-code-assistant-with-groq-in-vscode-4eme)
+- [YoutubeGPT, start a chat with a video 🤖](https://dev.to/dani_avila7/youtbe-gpt-start-a-chat-with-a-video-3ona)
 <!-- BLOG-POST-LIST:END -->
 <!--
 </details>
