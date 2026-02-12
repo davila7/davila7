@@ -35,11 +35,11 @@
     <summary><h2>📝 Blog post</h2></summary>
 -->
 <!-- BLOG-POST-LIST:START -->
+- [Agent Teams in Claude Code](https://medium.com/@dan.avila7/agent-teams-in-claude-code-d6bb90b3333b?source=rss-3a9533f001c5------2)
 - [Separation of Responsibilities: MCP vs Skills](https://medium.com/@dan.avila7/separation-of-responsibilities-mcp-vs-skills-70a0d197f5d3?source=rss-3a9533f001c5------2)
 - [Vercel Just Dropped the React Bible as a Claude Code Skill](https://medium.com/@dan.avila7/vercel-just-dropped-the-react-bible-as-a-claude-code-skill-0c1cd905a1b4?source=rss-3a9533f001c5------2)
 - [Claude Code Environment Variables: A Complete Reference Guide](https://medium.com/@dan.avila7/claude-code-environment-variables-a-complete-reference-guide-41229ef18120?source=rss-3a9533f001c5------2)
 - [Running Claude Code Agents in Docker Containers for Complete Isolation](https://medium.com/@dan.avila7/running-claude-code-agents-in-docker-containers-for-complete-isolation-63036a2ef6f4?source=rss-3a9533f001c5------2)
-- [Claude Code Learning Path: a practical guide to getting started](https://medium.com/@dan.avila7/claude-code-learning-path-a-practical-guide-to-getting-started-fcc601550476?source=rss-3a9533f001c5------2)
 <!-- BLOG-POST-LIST:END -->
 <!--
 </details>
