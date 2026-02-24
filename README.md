@@ -35,11 +35,11 @@
     <summary><h2>📝 Blog post</h2></summary>
 -->
 <!-- BLOG-POST-LIST:START -->
-- [How I Built Claude Code Templates for Free &lpar;500K+ Downloads&rpar;](https://medium.com/@dan.avila7/how-i-built-claude-code-templates-for-free-500k-downloads-811a8cb72b05?source=rss-3a9533f001c5------2)
-- [Agent Teams in Claude Code](https://medium.com/@dan.avila7/agent-teams-in-claude-code-d6bb90b3333b?source=rss-3a9533f001c5------2)
-- [Separation of Responsibilities: MCP vs Skills](https://medium.com/@dan.avila7/separation-of-responsibilities-mcp-vs-skills-70a0d197f5d3?source=rss-3a9533f001c5------2)
-- [Vercel Just Dropped the React Bible as a Claude Code Skill](https://medium.com/@dan.avila7/vercel-just-dropped-the-react-bible-as-a-claude-code-skill-0c1cd905a1b4?source=rss-3a9533f001c5------2)
-- [Claude Code Environment Variables: A Complete Reference Guide](https://medium.com/@dan.avila7/claude-code-environment-variables-a-complete-reference-guide-41229ef18120?source=rss-3a9533f001c5------2)
+- [Complete Guide to Claude Code Templates](https://dev.to/dani_avila7/complete-guide-to-claude-code-templates-1pnp)
+- [Claude Code: From Zero to Hero](https://dev.to/dani_avila7/claude-code-from-zero-to-hero-4kcm)
+- [Llama 3.2 Running Locally in VSCode: How to Set It Up with CodeGPT and Ollama](https://dev.to/dani_avila7/llama-32-running-locally-in-vscode-how-to-set-it-up-with-codegpt-and-ollama-h1n)
+- [Lightning-Fast Code Assistant with Groq in VSCode](https://dev.to/dani_avila7/lightning-fast-code-assistant-with-groq-in-vscode-4eme)
+- [YoutubeGPT, start a chat with a video 🤖](https://dev.to/dani_avila7/youtbe-gpt-start-a-chat-with-a-video-3ona)
 <!-- BLOG-POST-LIST:END -->
 <!--
 </details>
