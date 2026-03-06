@@ -35,11 +35,11 @@
     <summary><h2>📝 Blog post</h2></summary>
 -->
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code scheduled tasks + Telegram: How to get notified every Time an agent runs](https://medium.com/@dan.avila7/claude-code-scheduled-tasks-telegram-how-to-get-notified-every-time-an-agent-runs-609cba7c06fc?source=rss-3a9533f001c5------2)
 - [I got selected for Claude for Open Source Program. Here’s How you can Apply too](https://medium.com/@dan.avila7/i-got-selected-for-claude-for-open-source-program-heres-how-you-can-apply-too-1024da17ef31?source=rss-3a9533f001c5------2)
 - [Claude Code 2.1.63 introduced /simplify. Here’s what it actually does](https://medium.com/@dan.avila7/claude-code-2-1-63-introduced-simplify-heres-what-it-actually-does-cecaa32fb0b3?source=rss-3a9533f001c5------2)
 - [How I Built Claude Code Templates for Free &lpar;500K+ Downloads&rpar;](https://medium.com/@dan.avila7/how-i-built-claude-code-templates-for-free-500k-downloads-811a8cb72b05?source=rss-3a9533f001c5------2)
 - [Agent Teams in Claude Code](https://medium.com/@dan.avila7/agent-teams-in-claude-code-d6bb90b3333b?source=rss-3a9533f001c5------2)
-- [Separation of Responsibilities: MCP vs Skills](https://medium.com/@dan.avila7/separation-of-responsibilities-mcp-vs-skills-70a0d197f5d3?source=rss-3a9533f001c5------2)
 <!-- BLOG-POST-LIST:END -->
 <!--
 </details>
