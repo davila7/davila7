@@ -35,11 +35,11 @@
     <summary><h2>📝 Blog post</h2></summary>
 -->
 <!-- BLOG-POST-LIST:START -->
+- [How Claude’s preferences field works and why you should fill it in](https://medium.com/@dan.avila7/how-claudes-preferences-field-works-and-why-you-should-fill-it-in-187c08c0a49a?source=rss-3a9533f001c5------2)
 - [Supply Chain Guard: An Agent Skill That Audits Your Code for Compromised Dependencies](https://medium.com/@dan.avila7/supply-chain-guard-an-agent-skill-that-audits-your-code-for-compromised-dependencies-9be39c7edcbb?source=rss-3a9533f001c5------2)
 - [Claude Code Skills explained step by step](https://medium.com/@dan.avila7/claude-code-skills-explained-step-by-step-ee3dbb925b49?source=rss-3a9533f001c5------2)
 - [Claude Code Desktop has a built-in preview MCP, here’s how it works](https://medium.com/@dan.avila7/claude-code-desktop-has-a-built-in-preview-mcp-heres-how-it-works-774809ff676f?source=rss-3a9533f001c5------2)
 - [Claude Code has a hidden Agent for answering questions about itself](https://medium.com/@dan.avila7/claude-code-has-a-hidden-agent-for-answering-questions-about-itself-0f79887fc4f6?source=rss-3a9533f001c5------2)
-- [Perplexity Computer built a full Earthquake Dashboard in 6 minutes](https://medium.com/@dan.avila7/perplexity-computer-built-a-full-earthquake-dashboard-in-6-minutes-d8b0c320b676?source=rss-3a9533f001c5------2)
 <!-- BLOG-POST-LIST:END -->
 <!--
 </details>
