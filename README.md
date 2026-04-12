@@ -35,11 +35,11 @@
     <summary><h2>📝 Blog post</h2></summary>
 -->
 <!-- BLOG-POST-LIST:START -->
-- [Complete Guide to Claude Code Templates](https://dev.to/dani_avila7/complete-guide-to-claude-code-templates-1pnp)
-- [Claude Code: From Zero to Hero](https://dev.to/dani_avila7/claude-code-from-zero-to-hero-4kcm)
-- [Llama 3.2 Running Locally in VSCode: How to Set It Up with CodeGPT and Ollama](https://dev.to/dani_avila7/llama-32-running-locally-in-vscode-how-to-set-it-up-with-codegpt-and-ollama-h1n)
-- [Lightning-Fast Code Assistant with Groq in VSCode](https://dev.to/dani_avila7/lightning-fast-code-assistant-with-groq-in-vscode-4eme)
-- [YoutubeGPT, start a chat with a video 🤖](https://dev.to/dani_avila7/youtbe-gpt-start-a-chat-with-a-video-3ona)
+- [How Claude’s preferences field works and why you should fill it in](https://medium.com/@dan.avila7/how-claudes-preferences-field-works-and-why-you-should-fill-it-in-187c08c0a49a?source=rss-3a9533f001c5------2)
+- [Supply Chain Guard: An Agent Skill That Audits Your Code for Compromised Dependencies](https://medium.com/@dan.avila7/supply-chain-guard-an-agent-skill-that-audits-your-code-for-compromised-dependencies-9be39c7edcbb?source=rss-3a9533f001c5------2)
+- [Claude Code Skills explained step by step](https://medium.com/@dan.avila7/claude-code-skills-explained-step-by-step-ee3dbb925b49?source=rss-3a9533f001c5------2)
+- [Claude Code Desktop has a built-in preview MCP, here’s how it works](https://medium.com/@dan.avila7/claude-code-desktop-has-a-built-in-preview-mcp-heres-how-it-works-774809ff676f?source=rss-3a9533f001c5------2)
+- [Claude Code has a hidden Agent for answering questions about itself](https://medium.com/@dan.avila7/claude-code-has-a-hidden-agent-for-answering-questions-about-itself-0f79887fc4f6?source=rss-3a9533f001c5------2)
 <!-- BLOG-POST-LIST:END -->
 <!--
 </details>
