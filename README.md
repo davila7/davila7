@@ -35,11 +35,11 @@
     <summary><h2>📝 Blog post</h2></summary>
 -->
 <!-- BLOG-POST-LIST:START -->
+- [Step-by-Step: Complete Auto Mode configuration in Claude Code](https://medium.com/@dan.avila7/step-by-step-complete-auto-mode-configuration-in-claude-code-2ca3a0267a08?source=rss-3a9533f001c5------2)
 - [Save up to 85% of your Claude tokens with one setting](https://medium.com/@dan.avila7/save-up-to-85-of-your-claude-tokens-with-one-setting-22d78728b8a2?source=rss-3a9533f001c5------2)
 - [Out of tokens? First, learn what they are](https://medium.com/@dan.avila7/out-of-tokens-first-learn-what-they-are-52549231733e?source=rss-3a9533f001c5------2)
 - [How Claude’s preferences field works and why you should fill it in](https://medium.com/@dan.avila7/how-claudes-preferences-field-works-and-why-you-should-fill-it-in-187c08c0a49a?source=rss-3a9533f001c5------2)
 - [Supply Chain Guard: An Agent Skill That Audits Your Code for Compromised Dependencies](https://medium.com/@dan.avila7/supply-chain-guard-an-agent-skill-that-audits-your-code-for-compromised-dependencies-9be39c7edcbb?source=rss-3a9533f001c5------2)
-- [Claude Code Skills explained step by step](https://medium.com/@dan.avila7/claude-code-skills-explained-step-by-step-ee3dbb925b49?source=rss-3a9533f001c5------2)
 <!-- BLOG-POST-LIST:END -->
 <!--
 </details>
