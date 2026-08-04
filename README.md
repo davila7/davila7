@@ -35,11 +35,11 @@
     <summary><h2>📝 Blog post</h2></summary>
 -->
 <!-- BLOG-POST-LIST:START -->
-- [How to control how many Agents a Claude Code Workflow spawns](https://medium.com/@dan.avila7/how-to-control-how-many-agents-a-claude-code-workflow-spawns-e0794e21bcde?source=rss-3a9533f001c5------2)
-- [Fable 5 as Advisor, Opus 5 as Executor](https://medium.com/@dan.avila7/fable-5-as-advisor-opus-5-as-executor-158a661987bc?source=rss-3a9533f001c5------2)
-- [The invisible crisis in AI Observability](https://medium.com/@dan.avila7/the-invisible-crisis-in-ai-observability-3b852af6dfd9?source=rss-3a9533f001c5------2)
-- [Claude Code Skills: Progressive Disclosure Step by Step](https://medium.com/@dan.avila7/claude-code-skills-progressive-disclosure-step-by-step-3ca02a4a9f60?source=rss-3a9533f001c5------2)
-- [Step-by-Step: Complete Auto Mode configuration in Claude Code](https://medium.com/@dan.avila7/step-by-step-complete-auto-mode-configuration-in-claude-code-2ca3a0267a08?source=rss-3a9533f001c5------2)
+- [Complete Guide to Claude Code Templates](https://dev.to/dani_avila7/complete-guide-to-claude-code-templates-1pnp)
+- [Complete Guide to Claude Code Templates](https://danielsan.hashnode.dev/complete-guide-to-claude-code-templates)
+- [Claude Code: From Zero to Hero](https://danielsan.hashnode.dev/claude-code-from-zero-to-hero)
+- [Claude Code: From Zero to Hero](https://dev.to/dani_avila7/claude-code-from-zero-to-hero-4kcm)
+- [Llama 3.2 Running Locally in VSCode: How to Set It Up with CodeGPT and Ollama](https://dev.to/dani_avila7/llama-32-running-locally-in-vscode-how-to-set-it-up-with-codegpt-and-ollama-h1n)
 <!-- BLOG-POST-LIST:END -->
 <!--
 </details>
