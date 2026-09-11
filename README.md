@@ -35,11 +35,11 @@
     <summary><h2>📝 Blog post</h2></summary>
 -->
 <!-- BLOG-POST-LIST:START -->
+- [Audit Your Claude Code Context Before You Optimize Anything](https://medium.com/@dan.avila7/audit-your-claude-code-context-before-you-optimize-anything-32e3f71167e0?source=rss-3a9533f001c5------2)
 - [How to control how many Agents a Claude Code Workflow spawns](https://medium.com/@dan.avila7/how-to-control-how-many-agents-a-claude-code-workflow-spawns-e0794e21bcde?source=rss-3a9533f001c5------2)
 - [Fable 5 as Advisor, Opus 5 as Executor](https://medium.com/@dan.avila7/fable-5-as-advisor-opus-5-as-executor-158a661987bc?source=rss-3a9533f001c5------2)
 - [The invisible crisis in AI Observability](https://medium.com/@dan.avila7/the-invisible-crisis-in-ai-observability-3b852af6dfd9?source=rss-3a9533f001c5------2)
 - [Claude Code Skills: Progressive Disclosure Step by Step](https://medium.com/@dan.avila7/claude-code-skills-progressive-disclosure-step-by-step-3ca02a4a9f60?source=rss-3a9533f001c5------2)
-- [Step-by-Step: Complete Auto Mode configuration in Claude Code](https://medium.com/@dan.avila7/step-by-step-complete-auto-mode-configuration-in-claude-code-2ca3a0267a08?source=rss-3a9533f001c5------2)
 <!-- BLOG-POST-LIST:END -->
 <!--
 </details>
