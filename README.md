@@ -35,11 +35,11 @@
     <summary><h2>📝 Blog post</h2></summary>
 -->
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code reads AGENTS.md now, but only when CLAUDE.md is missing](https://medium.com/@dan.avila7/claude-code-reads-agents-md-now-but-only-when-claude-md-is-missing-fa2a19cee111?source=rss-3a9533f001c5------2)
 - [Name your Claude Code sessions before you run more than one](https://medium.com/@dan.avila7/name-your-claude-code-sessions-before-you-run-more-than-one-d819515c96cb?source=rss-3a9533f001c5------2)
 - [Skills over MCP: the wire format behind the new extension](https://medium.com/@dan.avila7/skills-over-mcp-the-wire-format-behind-the-new-extension-d9182bd2fa2b?source=rss-3a9533f001c5------2)
 - [Use /skill-doctor to find the Claude Code skills you never invoke](https://medium.com/@dan.avila7/use-skill-doctor-to-find-the-claude-code-skills-you-never-invoke-92a9665fc4c1?source=rss-3a9533f001c5------2)
 - [Audit Your Claude Code Context Before You Optimize Anything](https://medium.com/@dan.avila7/audit-your-claude-code-context-before-you-optimize-anything-32e3f71167e0?source=rss-3a9533f001c5------2)
-- [How to control how many Agents a Claude Code Workflow spawns](https://medium.com/@dan.avila7/how-to-control-how-many-agents-a-claude-code-workflow-spawns-e0794e21bcde?source=rss-3a9533f001c5------2)
 <!-- BLOG-POST-LIST:END -->
 <!--
 </details>
