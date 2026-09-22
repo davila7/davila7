@@ -35,11 +35,11 @@
     <summary><h2>📝 Blog post</h2></summary>
 -->
 <!-- BLOG-POST-LIST:START -->
+- [Jev Skill Suggestion keeps your Claude Code skills out of context until one is needed](https://medium.com/@dan.avila7/jev-skill-suggestion-keeps-your-claude-code-skills-out-of-context-until-one-is-needed-9b6be5bb9141?source=rss-3a9533f001c5------2)
 - [Let Jev pick the model and the effort for every Claude Code turn](https://medium.com/@dan.avila7/let-jev-pick-the-model-and-the-effort-for-every-claude-code-turn-1daa72c9b384?source=rss-3a9533f001c5------2)
 - [Claude Code reads AGENTS.md now, but only when CLAUDE.md is missing](https://medium.com/@dan.avila7/claude-code-reads-agents-md-now-but-only-when-claude-md-is-missing-fa2a19cee111?source=rss-3a9533f001c5------2)
 - [Name your Claude Code sessions before you run more than one](https://medium.com/@dan.avila7/name-your-claude-code-sessions-before-you-run-more-than-one-d819515c96cb?source=rss-3a9533f001c5------2)
 - [Skills over MCP: the wire format behind the new extension](https://medium.com/@dan.avila7/skills-over-mcp-the-wire-format-behind-the-new-extension-d9182bd2fa2b?source=rss-3a9533f001c5------2)
-- [Use /skill-doctor to find the Claude Code skills you never invoke](https://medium.com/@dan.avila7/use-skill-doctor-to-find-the-claude-code-skills-you-never-invoke-92a9665fc4c1?source=rss-3a9533f001c5------2)
 <!-- BLOG-POST-LIST:END -->
 <!--
 </details>
