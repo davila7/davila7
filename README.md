@@ -36,7 +36,7 @@
 -->
 <!-- BLOG-POST-LIST:START -->
 - [Chess Mod puts a board in your Claude Code side pane and prices every move](https://medium.com/@dan.avila7/chess-mod-puts-a-board-in-your-claude-code-side-pane-and-prices-every-move-ad9fa55bffda?source=rss-3a9533f001c5------2)
-- [Claude Code Templates now installs Mods with one command](https://medium.com/@dan.avila7/claude-code-templates-now-installs-mods-with-one-command-ef6e4223832f?source=rss-3a9533f001c5------2)
+- [Installs Claude Code Mods with one command](https://medium.com/@dan.avila7/claude-code-templates-now-installs-mods-with-one-command-ef6e4223832f?source=rss-3a9533f001c5------2)
 - [Stop correcting Claude in prose, rewind the session instead](https://medium.com/@dan.avila7/stop-correcting-claude-in-prose-rewind-the-session-instead-9b1c00715b4a?source=rss-3a9533f001c5------2)
 - [Jev Skill Suggestion keeps your Claude Code skills out of context until one is needed](https://medium.com/@dan.avila7/jev-skill-suggestion-keeps-your-claude-code-skills-out-of-context-until-one-is-needed-9b6be5bb9141?source=rss-3a9533f001c5------2)
 - [Let Jev pick the model and the effort for every Claude Code turn](https://medium.com/@dan.avila7/let-jev-pick-the-model-and-the-effort-for-every-claude-code-turn-1daa72c9b384?source=rss-3a9533f001c5------2)
