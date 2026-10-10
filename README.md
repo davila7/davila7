@@ -35,11 +35,11 @@
     <summary><h2>📝 Blog post</h2></summary>
 -->
 <!-- BLOG-POST-LIST:START -->
+- [Sonnet-Main, Opus-advisor, Haiku-subagents… Splits your Claude Code session across three models](https://medium.com/@dan.avila7/sonnet-main-opus-advisor-haiku-subagents-splits-your-claude-code-session-across-three-models-1e9e96a47f26?source=rss-3a9533f001c5------2)
 - [Jev Skill Typeahead shows which skill Claude Code will call before you hit enter](https://medium.com/@dan.avila7/jev-skill-typeahead-shows-which-skill-claude-code-will-call-before-you-hit-enter-ca43feb0fe36?source=rss-3a9533f001c5------2)
 - [Prompt Cache Control puts a live countdown on Claude Code’s 5 minute cache](https://medium.com/@dan.avila7/prompt-cache-control-puts-a-live-countdown-on-claude-codes-5-minute-cache-53df5f8781f1?source=rss-3a9533f001c5------2)
 - [Chess Mod puts a board in your Claude Code side pane and prices every move](https://medium.com/@dan.avila7/chess-mod-puts-a-board-in-your-claude-code-side-pane-and-prices-every-move-ad9fa55bffda?source=rss-3a9533f001c5------2)
 - [Installs Claude Code Mods with one command](https://medium.com/@dan.avila7/claude-code-templates-now-installs-mods-with-one-command-ef6e4223832f?source=rss-3a9533f001c5------2)
-- [Stop correcting Claude in prose, rewind the session instead](https://medium.com/@dan.avila7/stop-correcting-claude-in-prose-rewind-the-session-instead-9b1c00715b4a?source=rss-3a9533f001c5------2)
 <!-- BLOG-POST-LIST:END -->
 <!--
 </details>
