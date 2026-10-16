@@ -35,11 +35,11 @@
     <summary><h2>📝 Blog post</h2></summary>
 -->
 <!-- BLOG-POST-LIST:START -->
+- [/export turns your Claude Code session into a file another agent can read](https://medium.com/@dan.avila7/export-turns-your-claude-code-session-into-a-file-another-agent-can-read-de45ea44238e?source=rss-3a9533f001c5------2)
+- [Prompt Cache Control puts a live countdown on Claude Code’s 5 minute cache](https://dev.to/dani_avila7/prompt-cache-control-puts-a-live-countdown-on-claude-codes-5-minute-cache-3f12)
 - [DoorDash Allergy Shield stops the checkout when Claude Code puts an allergen in your cart](https://medium.com/@dan.avila7/doordash-allergy-shield-stops-the-checkout-when-claude-code-puts-an-allergen-in-your-cart-2c5140b58da9?source=rss-3a9533f001c5------2)
 - [Claude Managed Agents Cookbook runs 16 agents on Anthropic’s cloud from a Jupyter notebook](https://medium.com/@dan.avila7/claude-managed-agents-cookbook-runs-16-agents-on-anthropics-cloud-from-a-jupyter-notebook-e313f933d43b?source=rss-3a9533f001c5------2)
 - [Subagent Read Only Guard stops your Claude Code subagents from writing files](https://dev.to/dani_avila7/subagent-read-only-guard-stops-your-claude-code-subagents-from-writing-files-jc5)
-- [Subagent Read Only Guard stops your Claude Code subagents from writing files](https://medium.com/@dan.avila7/subagent-read-only-guard-stops-your-claude-code-subagents-from-writing-files-33940ae885c1?source=rss-3a9533f001c5------2)
-- [Sonnet-Main, Opus-advisor, Haiku-subagents… Splits your Claude Code session across three models](https://medium.com/@dan.avila7/sonnet-main-opus-advisor-haiku-subagents-splits-your-claude-code-session-across-three-models-1e9e96a47f26?source=rss-3a9533f001c5------2)
 <!-- BLOG-POST-LIST:END -->
 <!--
 </details>
