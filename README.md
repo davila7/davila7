@@ -35,11 +35,11 @@
     <summary><h2>📝 Blog post</h2></summary>
 -->
 <!-- BLOG-POST-LIST:START -->
+- [Installs Claude Code Mods with one command](https://dev.to/dani_avila7/installs-claude-code-mods-with-one-command-36h8)
 - [Stripe MCP Confirm Writes makes Claude Code ask before it moves money](https://medium.com/@dan.avila7/stripe-mcp-confirm-writes-makes-claude-code-ask-before-it-moves-money-253cc8f19eff?source=rss-3a9533f001c5------2)
 - [Ultra Config switches your whole Claude Code setup between five profiles mid-session](https://dev.to/dani_avila7/ultra-config-switches-your-whole-claude-code-setup-between-five-profiles-mid-session-4199)
 - [Ultra Config switches your whole Claude Code setup between five profiles mid-session](https://medium.com/@dan.avila7/ultra-config-switches-your-whole-claude-code-setup-between-five-profiles-mid-session-163d5e829a4a?source=rss-3a9533f001c5------2)
 - [/export turns your Claude Code session into a file another agent can read](https://medium.com/@dan.avila7/export-turns-your-claude-code-session-into-a-file-another-agent-can-read-de45ea44238e?source=rss-3a9533f001c5------2)
-- [Prompt Cache Control puts a live countdown on Claude Code’s 5 minute cache](https://dev.to/dani_avila7/prompt-cache-control-puts-a-live-countdown-on-claude-codes-5-minute-cache-3f12)
 <!-- BLOG-POST-LIST:END -->
 <!--
 </details>
