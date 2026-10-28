@@ -35,11 +35,11 @@
     <summary><h2>📝 Blog post</h2></summary>
 -->
 <!-- BLOG-POST-LIST:START -->
+- [Firecrawl MCP turns a whole site into markdown Claude Code can read](https://medium.com/@dan.avila7/firecrawl-mcp-turns-a-whole-site-into-markdown-claude-code-can-read-f8de8280e579?source=rss-3a9533f001c5------2)
 - [Stack Viewer maps every component your Claude Code session loads and which ones are shadowed](https://medium.com/@dan.avila7/stack-viewer-maps-every-component-your-claude-code-session-loads-and-which-ones-are-shadowed-d05949da1549?source=rss-3a9533f001c5------2)
 - [Installs Claude Code Mods with one command](https://dev.to/dani_avila7/installs-claude-code-mods-with-one-command-36h8)
 - [Stripe MCP Confirm Writes makes Claude Code ask before it moves money](https://medium.com/@dan.avila7/stripe-mcp-confirm-writes-makes-claude-code-ask-before-it-moves-money-253cc8f19eff?source=rss-3a9533f001c5------2)
 - [Ultra Config switches your whole Claude Code setup between five profiles mid-session](https://dev.to/dani_avila7/ultra-config-switches-your-whole-claude-code-setup-between-five-profiles-mid-session-4199)
-- [Ultra Config switches your whole Claude Code setup between five profiles mid-session](https://medium.com/@dan.avila7/ultra-config-switches-your-whole-claude-code-setup-between-five-profiles-mid-session-163d5e829a4a?source=rss-3a9533f001c5------2)
 <!-- BLOG-POST-LIST:END -->
 <!--
 </details>
