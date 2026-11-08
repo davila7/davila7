@@ -35,11 +35,11 @@
     <summary><h2>📝 Blog post</h2></summary>
 -->
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code reads AGENTS.md now, but only when CLAUDE.md is missing](https://dev.to/dani_avila7/claude-code-reads-agentsmd-now-but-only-when-claudemd-is-missing-4lmh)
 - [Brainstorming gets a design doc approved before Claude Code builds anything](https://dev.to/dani_avila7/brainstorming-gets-a-design-doc-approved-before-claude-code-builds-anything-4gm5)
 - [Brainstorming gets a design doc approved before Claude Code builds anything](https://medium.com/@dan.avila7/brainstorming-gets-a-design-doc-approved-before-claude-code-builds-anything-bbd7cde49f55?source=rss-3a9533f001c5------2)
 - [Name your Claude Code sessions before you run more than one](https://dev.to/dani_avila7/name-your-claude-code-sessions-before-you-run-more-than-one-2d3f)
 - [Superlogical MCP puts the Rex docs, changelog and Discord threads in your Claude Code session](https://dev.to/dani_avila7/superlogical-mcp-puts-the-rex-docs-changelog-and-discord-threads-in-your-claude-code-session-37bi)
-- [Superlogical MCP puts the Rex docs, changelog and Discord threads in your Claude Code session](https://medium.com/@dan.avila7/superlogical-mcp-puts-the-rex-docs-changelog-and-discord-threads-in-your-claude-code-session-886af7fc88c1?source=rss-3a9533f001c5------2)
 <!-- BLOG-POST-LIST:END -->
 <!--
 </details>
