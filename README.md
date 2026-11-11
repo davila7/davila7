@@ -35,11 +35,11 @@
     <summary><h2>📝 Blog post</h2></summary>
 -->
 <!-- BLOG-POST-LIST:START -->
+- [Senior Frontend SKILL makes Claude Code open your page in a real browser before it says done](https://dev.to/dani_avila7/senior-frontend-skill-makes-claude-code-open-your-page-in-a-real-browser-before-it-says-done-26f3)
+- [Senior Frontend SKILL makes Claude Code open your page in a real browser before it says done](https://medium.com/@dan.avila7/senior-frontend-skill-makes-claude-code-open-your-page-in-a-real-browser-before-it-says-done-0545b5f7dac3?source=rss-3a9533f001c5------2)
 - [Run Claude Code on a cloud computer from Rex with Vercel Sandbox](https://medium.com/@dan.avila7/run-claude-code-on-a-cloud-computer-from-rex-with-vercel-sandbox-b107b0a61b7b?source=rss-3a9533f001c5------2)
 - [Mintlify Admin MCP lets Claude Code edit your docs, and some of those changes go live immediately](https://medium.com/@dan.avila7/mintlify-admin-mcp-lets-claude-code-edit-your-docs-and-some-of-those-changes-go-live-immediately-af17a4353366?source=rss-3a9533f001c5------2)
 - [Drex 2.0 in 10 Minutes: From Sign-Up to Your First Agent Decisions](https://medium.com/@dan.avila7/drex-2-0-in-10-minutes-from-sign-up-to-your-first-agent-decisions-0d2764f64a03?source=rss-3a9533f001c5------2)
-- [Your Mac terminal on your iPhone with Rex and Tailscale](https://medium.com/@dan.avila7/your-mac-terminal-on-your-iphone-with-rex-and-tailscale-bc018c7a89ce?source=rss-3a9533f001c5------2)
-- [Claude Code reads AGENTS.md now, but only when CLAUDE.md is missing](https://dev.to/dani_avila7/claude-code-reads-agentsmd-now-but-only-when-claudemd-is-missing-4lmh)
 <!-- BLOG-POST-LIST:END -->
 <!--
 </details>
