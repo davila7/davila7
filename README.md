@@ -35,11 +35,11 @@
     <summary><h2>📝 Blog post</h2></summary>
 -->
 <!-- BLOG-POST-LIST:START -->
+- [Let Jev pick the model and the effort for every Claude Code turn](https://dev.to/dani_avila7/let-jev-pick-the-model-and-the-effort-for-every-claude-code-turn-1d5b)
 - [Code Mode makes Claude Code write JavaScript instead of calling tools one at a time](https://dev.to/dani_avila7/code-mode-makes-claude-code-write-javascript-instead-of-calling-tools-one-at-a-time-2p46)
 - [Code Mode makes Claude Code write JavaScript instead of calling tools one at a time](https://medium.com/@dan.avila7/code-mode-makes-claude-code-write-javascript-instead-of-calling-tools-one-at-a-time-cc6721148a1c?source=rss-3a9533f001c5------2)
 - [Senior Frontend SKILL makes Claude Code open your page in a real browser before it says done](https://dev.to/dani_avila7/senior-frontend-skill-makes-claude-code-open-your-page-in-a-real-browser-before-it-says-done-26f3)
 - [Senior Frontend SKILL makes Claude Code open your page in a real browser before it says done](https://medium.com/@dan.avila7/senior-frontend-skill-makes-claude-code-open-your-page-in-a-real-browser-before-it-says-done-0545b5f7dac3?source=rss-3a9533f001c5------2)
-- [Run Claude Code on a cloud computer from Rex with Vercel Sandbox](https://medium.com/@dan.avila7/run-claude-code-on-a-cloud-computer-from-rex-with-vercel-sandbox-b107b0a61b7b?source=rss-3a9533f001c5------2)
 <!-- BLOG-POST-LIST:END -->
 <!--
 </details>
