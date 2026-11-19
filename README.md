@@ -35,11 +35,11 @@
     <summary><h2>📝 Blog post</h2></summary>
 -->
 <!-- BLOG-POST-LIST:START -->
+- [supabase-schema-architect proves your RLS policies as two users before it hands back the migration](https://medium.com/@dan.avila7/supabase-schema-architect-proves-your-rls-policies-as-two-users-before-it-hands-back-the-migration-75451b82af06?source=rss-3a9533f001c5------2)
 - [Jev Skill Suggestion keeps your Claude Code skills out of context until one is needed](https://dev.to/dani_avila7/jev-skill-suggestion-keeps-your-claude-code-skills-out-of-context-until-one-is-needed-4m86)
 - [Let Jev pick the model and the effort for every Claude Code turn](https://dev.to/dani_avila7/let-jev-pick-the-model-and-the-effort-for-every-claude-code-turn-1d5b)
 - [Code Mode makes Claude Code write JavaScript instead of calling tools one at a time](https://dev.to/dani_avila7/code-mode-makes-claude-code-write-javascript-instead-of-calling-tools-one-at-a-time-2p46)
 - [Code Mode makes Claude Code write JavaScript instead of calling tools one at a time](https://medium.com/@dan.avila7/code-mode-makes-claude-code-write-javascript-instead-of-calling-tools-one-at-a-time-cc6721148a1c?source=rss-3a9533f001c5------2)
-- [Senior Frontend SKILL makes Claude Code open your page in a real browser before it says done](https://dev.to/dani_avila7/senior-frontend-skill-makes-claude-code-open-your-page-in-a-real-browser-before-it-says-done-26f3)
 <!-- BLOG-POST-LIST:END -->
 <!--
 </details>
