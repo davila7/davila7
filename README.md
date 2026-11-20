@@ -35,11 +35,11 @@
     <summary><h2>📝 Blog post</h2></summary>
 -->
 <!-- BLOG-POST-LIST:START -->
+- [NVIDIA SkillEvaluator shows which of six agents actually load your skill on aitmpl.com](https://medium.com/@dan.avila7/nvidia-skillevaluator-shows-which-of-six-agents-actually-load-your-skill-on-aitmpl-com-6a959cc7487d?source=rss-3a9533f001c5------2)
+- [supabase-schema-architect proves your RLS policies as two users before it hands back the migration](https://dev.to/dani_avila7/supabase-schema-architect-proves-your-rls-policies-as-two-users-before-it-hands-back-the-migration-d45)
 - [api-security-audit maps every endpoint in your API before it looks for a single bug](https://dev.to/dani_avila7/api-security-audit-maps-every-endpoint-in-your-api-before-it-looks-for-a-single-bug-noi)
 - [api-security-audit maps every endpoint in your API before it looks for a single bug](https://medium.com/@dan.avila7/api-security-audit-maps-every-endpoint-in-your-api-before-it-looks-for-a-single-bug-90b89814c11d?source=rss-3a9533f001c5------2)
 - [supabase-schema-architect proves your RLS policies as two users before it hands back the migration](https://medium.com/@dan.avila7/supabase-schema-architect-proves-your-rls-policies-as-two-users-before-it-hands-back-the-migration-75451b82af06?source=rss-3a9533f001c5------2)
-- [Jev Skill Suggestion keeps your Claude Code skills out of context until one is needed](https://dev.to/dani_avila7/jev-skill-suggestion-keeps-your-claude-code-skills-out-of-context-until-one-is-needed-4m86)
-- [Let Jev pick the model and the effort for every Claude Code turn](https://dev.to/dani_avila7/let-jev-pick-the-model-and-the-effort-for-every-claude-code-turn-1d5b)
 <!-- BLOG-POST-LIST:END -->
 <!--
 </details>
