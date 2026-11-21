@@ -35,11 +35,11 @@
     <summary><h2>📝 Blog post</h2></summary>
 -->
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic just killed API keys. Here’s what Claude Platform OAuth actually does](https://dev.to/dani_avila7/anthropic-just-killed-api-keys-heres-what-claude-platform-oauth-actually-does-34p2)
+- [Anthropic just killed API keys. Here’s what Claude Platform OAuth actually does](https://medium.com/@dan.avila7/anthropic-just-killed-api-keys-heres-what-claude-platform-oauth-actually-does-41edd5a844bf?source=rss-3a9533f001c5------2)
 - [NVIDIA SkillEvaluator shows which of six agents actually load your skill on aitmpl.com](https://medium.com/@dan.avila7/nvidia-skillevaluator-shows-which-of-six-agents-actually-load-your-skill-on-aitmpl-com-6a959cc7487d?source=rss-3a9533f001c5------2)
 - [supabase-schema-architect proves your RLS policies as two users before it hands back the migration](https://dev.to/dani_avila7/supabase-schema-architect-proves-your-rls-policies-as-two-users-before-it-hands-back-the-migration-d45)
 - [api-security-audit maps every endpoint in your API before it looks for a single bug](https://dev.to/dani_avila7/api-security-audit-maps-every-endpoint-in-your-api-before-it-looks-for-a-single-bug-noi)
-- [api-security-audit maps every endpoint in your API before it looks for a single bug](https://medium.com/@dan.avila7/api-security-audit-maps-every-endpoint-in-your-api-before-it-looks-for-a-single-bug-90b89814c11d?source=rss-3a9533f001c5------2)
-- [supabase-schema-architect proves your RLS policies as two users before it hands back the migration](https://medium.com/@dan.avila7/supabase-schema-architect-proves-your-rls-policies-as-two-users-before-it-hands-back-the-migration-75451b82af06?source=rss-3a9533f001c5------2)
 <!-- BLOG-POST-LIST:END -->
 <!--
 </details>
