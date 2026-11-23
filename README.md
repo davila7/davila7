@@ -5,5 +5,6 @@
 AI Engineer, Coding agents, evals and observability 
 
 ## OSS:
-- AI Templates https://aitmpl.com (34k ⭐️) 
+- Web: danielavila.me
+- AI Templates https://aitmpl.com
 - Chaos Monkey Coding Agent Benchmark http://chaos-monkey.tech
